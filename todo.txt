@@ -1,1 +1,2 @@
-1) Make a list of players
+1) Get list of players and store in a list (https://www.nba.com/stats)
+2) Figure out how Poeltl works
