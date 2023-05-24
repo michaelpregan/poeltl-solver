@@ -1,2 +1,5 @@
-1) Get list of players and store in a list (https://www.nba.com/stats)
-2) Figure out how Poeltl works
+# Get list of players and store in a list (https://www.nba.com/stats)
+# Reformat df
+Take in an initial guess, calculate the possible players based on a result
+Return the list
+Ask the user for next guess, repeat 
