@@ -82,13 +82,13 @@ def get_initial_guess():
     elif initial_guess_pos == 'y':
         if initial_guess_info['Position'].values[0] == 'G':
             remaining_positions = remaining_positions[1:3]
-        elif initial_guess_info['Position'].values[0] == 'G-F' or 'F-G':
+        elif initial_guess_info['Position'].values[0] == ('G-F' or 'F-G'):
             remaining_positions = remaining_positions[0:6]
             remaining_positions.remove(initial_guess_info['Position'].values[0])
         elif initial_guess_info['Position'].values[0] == 'F':
             remaining_positions = remaining_positions[1:6]
             remaining_positions.remove(initial_guess_info['Position'].values[0])  
-        elif initial_guess_info['Position'].values[0] == 'F-C' or 'C-F':
+        elif initial_guess_info['Position'].values[0] == ('F-C' or 'C-F'):
             remaining_positions = remaining_positions[1:7]
             remaining_positions.remove(initial_guess_info['Position'].values[0])
         elif initial_guess_info['Position'].values[0] == 'C':
@@ -96,11 +96,11 @@ def get_initial_guess():
     elif initial_guess_pos == 'b':
         if initial_guess_info['Position'].values[0] == 'G':
             remaining_positions = remaining_positions[3:]
-        elif initial_guess_info['Position'].values[0] == 'G-F' or 'F-G':
+        elif initial_guess_info['Position'].values[0] == ('G-F' or 'F-G'):
             remaining_positions = remaining_positions[5:]
         elif initial_guess_info['Position'].values[0] == 'F':
             remaining_positions = ['G','C']
-        elif initial_guess_info['Position'].values[0] == 'F-C' or 'C-F':
+        elif initial_guess_info['Position'].values[0] == ('F-C' or 'C-F'):
             remaining_positions = remaining_positions[:2]
         elif initial_guess_info['Position'].values[0] == 'C':
             remaining_positions = remaining_positions[0:4]       
@@ -172,29 +172,29 @@ def get_subsequent_guess():
     elif subsequent_guess_pos == 'y':
         if subsequent_guess_info['Position'].values[0] == 'G':
             remaining_positions = [pos for pos in remaining_positions[1:3] if pos not in prev_position_guesses]         
-        elif subsequent_guess_info['Position'].values[0] == 'G-F' or 'F-G':
+        elif subsequent_guess_info['Position'].values[0] == ('G-F' or 'F-G'):
             remaining_positions = [pos for pos in remaining_positions[0:6] if pos not in prev_position_guesses]
         elif subsequent_guess_info['Position'].values[0] == 'F':
             remaining_positions = [pos for pos in remaining_positions[1:6] if pos not in prev_position_guesses]
-        elif subsequent_guess_info['Position'].values[0] == 'F-C' or 'C-F':
+        elif subsequent_guess_info['Position'].values[0] == ('F-C' or 'C-F'):
             remaining_positions = [pos for pos in remaining_positions[1:7] if pos not in prev_position_guesses]
         elif subsequent_guess_info['Position'].values[0] == 'C':
             remaining_positions = [pos for pos in remaining_positions[4:6] if pos not in prev_position_guesses]
         if subsequent_guess_info['Position'].values[0] in remaining_positions: 
-            remaining_positions.remove(subsequent_guess_info['Position'].values[0])    
+            remaining_positions.remove(subsequent_guess_info['Position'].values[0]) 
     elif subsequent_guess_pos == 'b':
         if subsequent_guess_info['Position'].values[0] == 'G':
             remaining_positions = [pos for pos in remaining_positions[3:] if pos not in prev_position_guesses]
-        elif subsequent_guess_info['Position'].values[0] == 'G-F' or 'F-G':
+        elif subsequent_guess_info['Position'].values[0] == ('G-F' or 'F-G'):
             remaining_positions = [pos for pos in remaining_positions[5:] if pos not in prev_position_guesses]
         elif subsequent_guess_info['Position'].values[0] == 'F':
             remaining_positions = [pos for pos in ['G','C'] if pos not in prev_position_guesses]
-        elif subsequent_guess_info['Position'].values[0] == 'F-C' or 'C-F':
+        elif subsequent_guess_info['Position'].values[0] == ('F-C' or 'C-F'):
             remaining_positions = [pos for pos in remaining_positions[:2] if pos not in prev_position_guesses]
         elif subsequent_guess_info['Position'].values[0] == 'C':
             remaining_positions = [pos for pos in remaining_positions[0:4] if pos not in prev_position_guesses]
         if subsequent_guess_info['Position'].values[0] in remaining_positions: 
-            remaining_positions.remove(subsequent_guess_info['Position'].values[0])     
+            remaining_positions.remove(subsequent_guess_info['Position'].values[0])
 
     subsequent_guess_height = input('What color was HT (b, y, or g)? ')
     subsequent_guess_height_range = [x for x in range(subsequent_guess_info['Height'].values[0]-2,subsequent_guess_info['Height'].values[0]+3)]
