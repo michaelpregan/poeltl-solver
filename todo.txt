@@ -1,5 +1,16 @@
-# Get list of players and store in a list (https://www.nba.com/stats)
-# Reformat df
+Done:
+Get list of players and store in a list (https://www.nba.com/stats)
+Reformat df
 Take in an initial guess, calculate the possible players based on a result
 Return the list
 Ask the user for next guess, repeat 
+
+Extra:
+fix the name spacing on the original dataset, maybe clean up possible answers
+check for arrows on either side
+add age as a guess
+check how g-f and c-f relate
+fix deepcopy west teams
+rename variables
+allow for stupid guesses (subsequent conference for example)
+make height and number guessing smarter
