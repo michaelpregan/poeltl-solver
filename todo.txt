@@ -14,3 +14,4 @@ fix deepcopy west teams
 rename variables
 allow for stupid guesses (subsequent conference for example)
 make height and number guessing smarter
+add gitignore
