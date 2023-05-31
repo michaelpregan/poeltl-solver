@@ -4,9 +4,9 @@ Reformat df
 Take in an initial guess, calculate the possible players based on a result
 Return the list
 Ask the user for next guess, repeat 
+fix the name spacing on the original dataset
 
 Extra:
-fix the name spacing on the original dataset, maybe clean up possible answers
 check for arrows on either side
 add age as a guess
 check how g-f and c-f relate

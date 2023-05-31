@@ -30,8 +30,8 @@ def get_initial_guess():
     global prev_position_guesses
     global west_teams
     global east_teams
-    initial_guess = input('Who was your first guess? ').split(' ',1)
-    initial_guess = ''.join(initial_guess)
+   
+    initial_guess = input('Who was your first guess? ')
     initial_guess_info = df.loc[df['Player'] == initial_guess]
     prev_position_guesses.append(initial_guess_info['Position'].values[0])
     df.drop(df.loc[df['Player']==initial_guess].index, inplace=True) 
@@ -135,8 +135,8 @@ def get_subsequent_guess():
     global prev_position_guesses
     global west_teams
     global east_teams
-    subsequent_guess = input('Who was your next guess? ').split(' ',1)
-    subsequent_guess = ''.join(subsequent_guess)
+
+    subsequent_guess = input('Who was your next guess? ')
     subsequent_guess_info = df.loc[df['Player'] == subsequent_guess]
     prev_position_guesses.append(subsequent_guess_info['Position'].values[0])
     df.drop(df.loc[df['Player']==subsequent_guess].index, inplace=True) 
