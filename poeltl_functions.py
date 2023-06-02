@@ -160,10 +160,12 @@ def get_subsequent_guess():
             if any(subsequent_guess_info['Team'].values[0] in div for div in west_teams.values()):
                 for div in west_teams:
                     if subsequent_guess_info['Team'].values[0] in west_teams[div]:   
+                        remaining_teams = west_teams[div]
                         remaining_teams.remove(subsequent_guess_info['Team'].unique().tolist()[0])
             else:
                 for div in east_teams:
-                    if subsequent_guess_info['Team'].values[0] in east_teams[div]:   
+                    if subsequent_guess_info['Team'].values[0] in east_teams[div]:  
+                        remaining_teams = east_teams[div] 
                         remaining_teams.remove(subsequent_guess_info['Team'].unique().tolist()[0])
 
     subsequent_guess_pos = input('What color was POS (b, y, or g)? ')
