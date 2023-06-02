@@ -15,3 +15,4 @@ rename variables
 allow for stupid guesses (subsequent conference for example)
 make height and number guessing smarter
 add gitignore
+fix error with apostrophe in name (Melton)
