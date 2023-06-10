@@ -9,7 +9,8 @@ fix the name spacing on the original dataset
 Extra:
 check for arrows on either side
 add age as a guess
-check how g-f and c-f relate
+check how g-f and c-f relate (yellow)
+Fix bug team not removing on subsequent guesses
 fix deepcopy west teams
 rename variables
 allow for stupid guesses (subsequent conference for example)
