@@ -7,6 +7,7 @@ Ask the user for next guess, repeat
 fix the name spacing on the original dataset
 
 Extra:
+***FIX SUBSEQUENT GUESS POSITION LOGIC***
 check for arrows on either side
 add age as a guess
 check how g-f and c-f relate (yellow)
