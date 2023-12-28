@@ -29,3 +29,7 @@ for row in rows:
 # Making df
 df = pd.DataFrame(all_player_info,columns=headerlist)
 df.to_csv('nba_player_info.csv')
+
+# Getting the states to compare
+driver2 = webdriver.Firefox()
+url = "https://www.nba.com/stats/leaders?PerMode=Totals"
