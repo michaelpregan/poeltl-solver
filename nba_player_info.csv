@@ -1,542 +1,599 @@
 ,Player,Team,Number,Position,Height,Weight,Last Attended,Country
-0,PreciousAchiuwa,TOR,5,F,6-8,243 lbs,Memphis,Nigeria
-1,StevenAdams,MEM,4,C,6-11,265 lbs,Pittsburgh,New Zealand
-2,BamAdebayo,MIA,13,C-F,6-9,255 lbs,Kentucky,USA
-3,OchaiAgbaji,UTA,30,G,6-5,215 lbs,Kansas,USA
-4,SantiAldama,MEM,7,F-C,7-0,215 lbs,Loyola-Maryland,Spain
-5,NickeilAlexander-Walker,MIN,9,G,6-5,205 lbs,Virginia Tech,Canada
-6,GraysonAllen,PHX,8,G,6-4,198 lbs,Duke,USA
-7,JarrettAllen,CLE,31,C,6-9,243 lbs,Texas,USA
-8,JoseAlvarado,NOP,15,G,6-0,179 lbs,Georgia Tech,USA
-9,KyleAnderson,MIN,1,F-G,6-9,230 lbs,UCLA,USA
-10,GiannisAntetokounmpo,MIL,34,F,6-11,243 lbs,Filathlitikos,Greece
-11,ThanasisAntetokounmpo,MIL,43,F,6-7,219 lbs,Panathinaikos,Greece
-12,ColeAnthony,ORL,50,G,6-2,185 lbs,North Carolina,USA
-13,OGAnunoby,TOR,3,F-G,6-7,240 lbs,Indiana,United Kingdom
-14,RyanArcidiacono,NYK,51,G,6-3,195 lbs,Villanova,USA
-15,DeniAvdija,WAS,8,F,6-9,210 lbs,Maccabi Tel Aviv,Israel
-16,DeandreAyton,POR,2,C,7-0,247 lbs,Arizona,Bahamas
-17,UdokaAzubuike,PHX,27,C-F,6-11,270 lbs,Kansas,Nigeria
-18,IbouBadji,POR,41,C,7-0,240 lbs,FC Barcelona,Senegal
-19,MarvinBagley III,DET,35,F,6-10,235 lbs,Duke,USA
-20,AmariBailey,CHA,10,G,6-3,185 lbs,UCLA,USA
-21,PatrickBaldwin Jr.,WAS,7,F,6-9,220 lbs,Wisconsin-Milwaukee,USA
-22,LaMeloBall,CHA,1,G,6-7,180 lbs,Illawarra,USA
-23,LonzoBall,CHI,2,G,6-6,190 lbs,UCLA,USA
-24,MoBamba,PHI,7,C,7-0,231 lbs,Texas,USA
-25,PaoloBanchero,ORL,5,F,6-10,250 lbs,Duke,USA
-26,DesmondBane,MEM,22,G,6-5,215 lbs,TCU,USA
-27,DalanoBanton,BOS,45,F,6-8,204 lbs,Nebraska,Canada
-28,DominickBarlow,SAS,26,F,6-9,215 lbs, ,USA
-29,HarrisonBarnes,SAC,40,F,6-8,225 lbs,North Carolina,USA
-30,ScottieBarnes,TOR,4,F-G,6-7,237 lbs,Florida State,USA
-31,RJBarrett,NYK,9,F-G,6-6,214 lbs,Duke,Canada
-32,CharlesBassey,SAS,28,C-F,6-10,230 lbs,Western Kentucky,Nigeria
-33,EmoniBates,CLE,21,F,6-8,170 lbs,Eastern Michigan,USA
-34,KeitaBates-Diop,PHX,21,F,6-8,229 lbs,Ohio State,USA
-35,NicolasBatum,PHI,40,G-F,6-8,230 lbs,Le Mans,France
-36,BradleyBeal,PHX,3,G,6-4,207 lbs,Florida,USA
-37,MalikBeasley,MIL,5,G,6-4,187 lbs,Florida State,USA
-38,MarJonBeauchamp,MIL,3,F,6-7,199 lbs,NBA G League Ignite,USA
-39,CharlesBediako,SAS,27,C,7-0,225 lbs,Alabama,Canada
-40,JulesBernard,WAS,24,G,6-6,210 lbs,UCLA,USA
-41,DavisBertans,OKC,9,F,6-10,225 lbs,Baskonia,Latvia
-42,PatrickBeverley,PHI,22,G,6-2,180 lbs,Arkansas,USA
-43,SaddiqBey,ATL,41,G-F,6-7,215 lbs,Villanova,USA
-44,GogaBitadze,ORL,35,C-F,6-10,250 lbs,Mega Basket,Georgia
-45,OnuralpBitim,CHI,17,F,6-6,215 lbs, ,Turkey
-46,BismackBiyombo,MEM,18,C,6-8,255 lbs,Baloncesto Fuenlabrada,DRC
-47,AnthonyBlack,ORL,0,G,6-7,200 lbs,Arkansas,USA
-48,LeakyBlack,CHA,12,F,6-6,209 lbs,North Carolina,USA
-49,BogdanBogdanovic,ATL,13,G,6-5,225 lbs,Fenerbahce,Serbia
-50,BojanBogdanovic,DET,44,F,6-7,226 lbs,Fenerbahce,Croatia
-51,BolBol,PHX,11,C-F,7-3,220 lbs,Oregon,Sudan
-52,MarquesBolden,MIL,12,C,6-10,249 lbs,Duke,USA
-53,DevinBooker,PHX,1,G,6-6,206 lbs,Kentucky,USA
-54,BrandonBoston Jr.,LAC,4,G,6-6,188 lbs,Kentucky,USA
-55,ChrisBoucher,TOR,25,F,6-9,200 lbs,Oregon,Saint Lucia
-56,JamesBouknight,CHA,2,G,6-4,190 lbs,Connecticut,USA
-57,JamareeBouyea,,,G,6-2,180 lbs,San Francisco,USA
-58,MalakiBranham,SAS,22,F,6-4,180 lbs,Ohio State,USA
-59,ChristianBraun,DEN,0,G,6-6,220 lbs,Kansas,USA
-60,MikalBridges,BKN,1,G-F,6-6,209 lbs,Villanova,USA
-61,MilesBridges,CHA,0,F,6-7,225 lbs,Michigan State,USA
-62,OshaeBrissett,BOS,12,F-G,6-7,210 lbs,Syracuse,Canada
-63,MalcolmBrogdon,POR,11,G,6-4,229 lbs,Virginia,USA
-64,ArmoniBrooks,BKN,13,G,6-3,195 lbs,Houston,USA
-65,DillonBrooks,HOU,9,G-F,6-6,225 lbs,Oregon,Canada
-66,BruceBrown,IND,11,G-F,6-4,202 lbs,Miami,USA
-67,JaylenBrown,BOS,7,G-F,6-6,223 lbs,California,USA
-68,KendallBrown,IND,10,G,6-7,205 lbs,Baylor,USA
-69,KobeBrown,LAC,21,F,6-7,250 lbs,Missouri,USA
-70,MosesBrown,POR,10,C,7-2,258 lbs,UCLA,USA
-71,GregBrown III,DAL,36,F,6-7,206 lbs,Texas,USA
-72,CharlieBrown Jr.,NYK,44,G,6-6,199 lbs,St. Joseph's (PA),USA
-73,TroyBrown Jr.,MIN,23,G-F,6-7,215 lbs,Oregon,USA
-74,JalenBrunson,NYK,11,G,6-2,190 lbs,Villanova,USA
-75,ThomasBryant,MIA,31,C-F,6-10,248 lbs,Indiana,USA
-76,KobeBufkin,ATL,4,G,6-5,195 lbs,Michigan,USA
-77,ReggieBullock Jr.,HOU,25,G-F,6-6,205 lbs,North Carolina,USA
-78,AlecBurks,DET,14,G,6-5,214 lbs,Colorado,USA
-79,JaredButler,WAS,4,G,6-3,193 lbs,Baylor,USA
-80,JimmyButler,MIA,22,F,6-7,230 lbs,Marquette,USA
-81,JamalCain,MIA,8,F,6-6,191 lbs,Oakland,USA
-82,KentaviousCaldwell-Pope,DEN,5,G,6-5,204 lbs,Georgia,USA
-83,ToumaniCamara,POR,33,F,6-7,226 lbs,Dayton,Belgium
-84,VlatkoCancar,DEN,31,F,6-8,236 lbs,San Pablo Burgos,Slovenia
-85,ClintCapela,ATL,15,C,6-10,256 lbs,Elan Chalon,Switzerland
-86,JevonCarter,CHI,5,G,6-1,200 lbs,West Virginia,USA
-87,WendellCarter Jr.,ORL,34,C-F,6-10,270 lbs,Duke,USA
-88,AlexCaruso,CHI,6,G,6-5,186 lbs,Texas A&M,USA
-89,ColinCastleton,LAL,14,C,6-10,250 lbs,Florida,USA
-90,MalcolmCazalon,DET,20,G,6-6,185 lbs,Mega Basket,France
-91,JulianChampagnie,SAS,30,F,6-7,217 lbs,St. John's,USA
-92,MaxChristie,LAL,10,G,6-5,190 lbs,Michigan State,USA
-93,JoshChristopher,UTA,13,G,6-4,215 lbs,Arizona State,USA
-94,SidyCissoko,SAS,25,G,6-6,200 lbs,NBA G League Ignite,France
-95,JaylenClark,MIN,0,G,6-4,205 lbs,UCLA,USA
-96,BrandonClarke,MEM,15,F,6-8,215 lbs,Gonzaga,Canada
-97,JordanClarkson,UTA,00,G,6-3,194 lbs,Missouri,USA
-98,NicClaxton,BKN,33,C,6-11,215 lbs,Georgia,USA
-99,NoahClowney,BKN,21,F,6-9,210 lbs,Alabama,USA
-100,AmirCoffey,LAC,7,G-F,6-7,210 lbs,Minnesota,USA
-101,JohnCollins,UTA,20,F-C,6-9,226 lbs,Wake Forest,USA
-102,ZachCollins,SAS,23,F-C,6-11,250 lbs,Gonzaga,USA
-103,MikeConley,MIN,10,G,6-0,175 lbs,Ohio State,USA
-104,PatConnaughton,MIL,24,G,6-5,209 lbs,Notre Dame,USA
-105,BilalCoulibaly,WAS,0,G,6-8,195 lbs,Metropolitans 92,France
-106,RickyCouncil IV,PHI,16,G,6-6,207 lbs,Arkansas,USA
-107,RobertCovington,PHI,33,F,6-7,209 lbs,Tennessee State,USA
-108,TorreyCraig,CHI,13,F,6-5,221 lbs,South Carolina Upstate,USA
-109,JaeCrowder,MIL,99,F,6-6,235 lbs,Marquette,USA
-110,CadeCunningham,DET,2,G,6-6,220 lbs,Oklahoma State,USA
-111,SethCurry,DAL,30,G,6-1,185 lbs,Duke,USA
-112,StephenCurry,GSW,30,G,6-2,185 lbs,Davidson,USA
-113,DysonDaniels,NOP,11,G,6-7,199 lbs,NBA G League Ignite,Australia
-114,AnthonyDavis,LAL,3,F-C,6-10,253 lbs,Kentucky,USA
-115,JohnnyDavis,WAS,1,G,6-4,195 lbs,Wisconsin,USA
-116,JDDavison,BOS,20,G,6-1,195 lbs,Alabama,USA
-117,DeMarDeRozan,CHI,11,G-F,6-6,220 lbs,Southern California,USA
-118,DexterDennis,DAL,38,G,6-5,210 lbs,Texas A&M,USA
-119,DonteDiVincenzo,NYK,0,G,6-4,203 lbs,Villanova,USA
-120,MoussaDiabate,LAC,25,F,6-9,210 lbs,Michigan,France
-121,GradeyDick,TOR,1,G-F,6-6,200 lbs,Kansas,USA
-122,OusmaneDieng,OKC,13,F,6-9,185 lbs,New Zealand Breakers,France
-123,SpencerDinwiddie,BKN,26,G,6-5,215 lbs,Colorado,USA
-124,LukaDoncic,DAL,77,F-G,6-7,230 lbs,Real Madrid,Slovenia
-125,LuguentzDort,OKC,5,G,6-4,220 lbs,Arizona State,Canada
-126,AyoDosunmu,CHI,12,G,6-5,200 lbs,Illinois,USA
-127,HenriDrell,CHI,,F,6-9,220 lbs, ,Estonia
-128,AndreDrummond,CHI,3,C,6-11,279 lbs,Connecticut,USA
-129,ChrisDuarte,SAC,3,G,6-5,190 lbs,Oregon,Dominican Republic
-130,DavidDuke Jr.,SAS,28,G,6-4,204 lbs,Providence,USA
-131,KrisDunn,UTA,11,G,6-3,205 lbs,Providence,USA
-132,KevinDurant,PHX,35,F,6-11,240 lbs,Texas,USA
-133,JalenDuren,DET,0,C,6-10,250 lbs,Memphis,USA
-134,TariEason,HOU,17,F,6-8,215 lbs,Louisiana State,USA
-135,AnthonyEdwards,MIN,5,G,6-4,225 lbs,Georgia,USA
-136,KesslerEdwards,SAC,17,F,6-7,203 lbs,Pepperdine,USA
-137,KeonEllis,SAC,23,G,6-3,175 lbs,Alabama,USA
-138,JoelEmbiid,PHI,21,C-F,7-0,280 lbs,Kansas,Cameroon
-139,DrewEubanks,PHX,14,F-C,6-10,245 lbs,Oregon State,USA
-140,DanteExum,DAL,0,G,6-5,214 lbs,Australian Institute of Sport,Australia
-141,BrunoFernando,ATL,24,F-C,6-9,240 lbs,Maryland,Angola
-142,DorianFinney-Smith,BKN,28,F,6-7,220 lbs,Florida,USA
-143,MalachiFlynn,TOR,22,G,6-1,185 lbs,San Diego State,USA
-144,SimoneFontecchio,UTA,16,F,6-7,209 lbs,Baskonia,Italy
-145,JordanFord,SAC,31,G,6-1,175 lbs,St. Mary's College,USA
-146,TrentForrest,ATL,2,G,6-4,210 lbs,Florida State,USA
-147,EvanFournier,NYK,13,G-F,6-6,205 lbs,Poitiers Basket 86,France
-148,De'AaronFox,SAC,5,G,6-3,185 lbs,Kentucky,USA
-149,JavonFreeman-Liberty,TOR,0,G,6-3,190 lbs,DePaul,USA
-150,AlexFudge,LAL,17,F,6-8,200 lbs,Florida,USA
-151,MarkelleFultz,ORL,20,G,6-4,209 lbs,Washington,USA
-152,DanielGafford,WAS,21,F-C,6-10,234 lbs,Arkansas,USA
-153,DaniloGallinari,WAS,88,F,6-10,236 lbs,Olimpia Milano,Italy
-154,DariusGarland,CLE,10,G,6-1,192 lbs,Vanderbilt,USA
-155,UsmanGaruba,GSW,12,F,6-8,229 lbs,Real Madrid,Spain
-156,LukaGarza,MIN,55,C,6-10,243 lbs,Iowa,USA
-157,KaiserGates,,,F,6-7,225 lbs,Xavier,USA
-158,KeyonteGeorge,UTA,3,G,6-4,185 lbs,Baylor,USA
-159,PaulGeorge,LAC,13,F,6-8,220 lbs,Fresno State,USA
-160,TajGibson,NYK,67,F,6-9,232 lbs,Southern California,USA
-161,JoshGiddey,OKC,3,G,6-8,216 lbs,NBA Global Academy,Australia
-162,HarryGiles III,BKN,14,F-C,6-10,240 lbs,Duke,USA
-163,ShaiGilgeous-Alexander,OKC,2,G,6-6,195 lbs,Kentucky,Canada
-164,AnthonyGill,WAS,16,F,6-8,230 lbs,Virginia,USA
-165,CollinGillespie,DEN,21,G,6-1,195 lbs,Villanova,USA
-166,JacobGilyard,MEM,0,G,5-8,160 lbs,Richmond,USA
-167,RudyGobert,MIN,27,C,7-1,258 lbs,Cholet,France
-168,JordanGoodwin,PHX,0,G,6-4,200 lbs,St. Louis,USA
-169,AaronGordon,DEN,50,F,6-8,235 lbs,Arizona,USA
-170,EricGordon,PHX,23,G,6-3,215 lbs,Indiana,USA
-171,Devonte'Graham,SAS,4,G,6-1,195 lbs,Kansas,USA
-172,JeramiGrant,POR,9,F,6-7,210 lbs,Syracuse,USA
-173,AJGreen,MIL,20,G,6-4,190 lbs,Northern Iowa,USA
-174,DannyGreen,,,G,6-6,215 lbs,North Carolina,USA
-175,DraymondGreen,GSW,23,F,6-6,230 lbs,Michigan State,USA
-176,JalenGreen,HOU,4,G,6-4,186 lbs,NBA G League Ignite,USA
-177,JeffGreen,HOU,32,F,6-8,235 lbs,Georgetown,USA
-178,JoshGreen,DAL,8,G,6-5,200 lbs,Arizona,Australia
-179,AJGriffin,ATL,14,F,6-6,220 lbs,Duke,USA
-180,QuentinGrimes,NYK,6,G,6-5,210 lbs,Houston,USA
-181,MouhamedGueye,ATL,18,F,6-10,210 lbs,Washington State,Senegal
-182,RuiHachimura,LAL,28,F,6-8,230 lbs,Gonzaga,Japan
-183,TyreseHaliburton,IND,0,G,6-5,185 lbs,Iowa State,USA
-184,R.J.Hampton,MIA,4,G,6-4,175 lbs,New Zealand Breakers,USA
-185,TimHardaway Jr.,DAL,10,G-F,6-5,205 lbs,Michigan,USA
-186,JamesHarden,LAC,1,G,6-5,220 lbs,Arizona State,USA
-187,JadenHardy,DAL,1,G,6-3,198 lbs,NBA G League Ignite,USA
-188,RonHarper Jr.,,,G-F,6-4,233 lbs,Rutgers,USA
-189,GaryHarris,ORL,14,G,6-4,210 lbs,Michigan State,USA
-190,JoeHarris,DET,31,G-F,6-6,220 lbs,Virginia,USA
-191,KevonHarris,ORL,8,G,6-5,216 lbs,Stephen F. Austin,USA
-192,TobiasHarris,PHI,12,F,6-8,226 lbs,Tennessee,USA
-193,ShaquilleHarrison,,,G,6-4,195 lbs,Tulsa,USA
-194,JoshHart,NYK,3,G,6-4,215 lbs,Villanova,USA
-195,IsaiahHartenstein,NYK,55,C-F,7-0,250 lbs,Zalgiris,Germany
-196,SamHauser,BOS,30,F,6-7,217 lbs,Virginia,USA
-197,JordanHawkins,NOP,24,G,6-5,190 lbs,Connecticut,USA
-198,JaxsonHayes,LAL,11,C-F,7-0,220 lbs,Texas,USA
-199,KillianHayes,DET,7,G,6-5,195 lbs,Ratiopharm Ulm,France
-200,GordonHayward,CHA,20,F,6-7,225 lbs,Butler,USA
-201,ScootHenderson,POR,00,G,6-3,202 lbs,NBA G League Ignite,USA
-202,TaylorHendricks,UTA,0,F,6-9,215 lbs,Central Florida,USA
-203,TylerHerro,MIA,14,G,6-5,195 lbs,Kentucky,USA
-204,BuddyHield,IND,7,G,6-4,220 lbs,Oklahoma,Bahamas
-205,HaywoodHighsmith,MIA,24,F,6-5,220 lbs,Wheeling Jesuit,USA
-206,NateHinton,HOU,14,G-F,6-5,210 lbs,Houston,USA
-207,D'MoiHodge,LAL,55,G,6-3,188 lbs,Missouri,British Virgin Islands
-208,AaronHoliday,HOU,0,G,6-0,185 lbs,UCLA,USA
-209,JrueHoliday,BOS,4,G,6-4,205 lbs,UCLA,USA
-210,JustinHoliday,DEN,9,F-G,6-6,180 lbs,Washington,USA
-211,RichaunHolmes,DAL,20,F,6-9,235 lbs,Bowling Green,USA
-212,ChetHolmgren,OKC,7,C-F,7-1,195 lbs,Gonzaga,USA
-213,JalenHood-Schifino,LAL,0,G,6-5,215 lbs,Indiana,USA
-214,AlHorford,BOS,42,C-F,6-9,240 lbs,Florida,Dominican Republic
-215,TalenHorton-Tucker,UTA,5,G,6-4,234 lbs,Iowa State,USA
-216,DanuelHouse Jr.,PHI,25,F-G,6-6,220 lbs,Texas A&M,USA
-217,CalebHoustan,ORL,2,G,6-8,205 lbs,Michigan,Canada
-218,JettHoward,ORL,13,G,6-6,215 lbs,Michigan,USA
-219,KevinHuerter,SAC,9,G-F,6-7,198 lbs,Maryland,USA
-220,JayHuff,DEN,30,C,7-1,240 lbs,Virginia,USA
-221,De'AndreHunter,ATL,12,F-G,6-8,221 lbs,Virginia,USA
-222,BonesHyland,LAC,5,G,6-2,169 lbs,Virginia Commonwealth,USA
-223,JoeIngles,ORL,7,F-G,6-9,220 lbs,Maccabi Tel Aviv,Australia
-224,BrandonIngram,NOP,14,F,6-8,190 lbs,Duke,USA
-225,KyrieIrving,DAL,11,G,6-2,195 lbs,Duke,Australia
-226,JonathanIsaac,ORL,1,F,6-10,230 lbs,Florida State,USA
-227,JadenIvey,DET,23,G,6-4,195 lbs,Purdue,USA
-228,GGJackson,MEM,45,F,6-9,210 lbs,South Carolina,USA
-229,IsaiahJackson,IND,22,F,6-9,205 lbs,Kentucky,USA
-230,ReggieJackson,DEN,7,G,6-2,208 lbs,Boston College,USA
-231,AndreJackson Jr.,MIL,44,G,6-6,209 lbs,Connecticut,USA
-232,JarenJackson Jr.,MEM,13,F-C,6-10,242 lbs,Michigan State,USA
-233,TrayceJackson-Davis,GSW,32,F,6-9,245 lbs,Indiana,USA
-234,LeBronJames,LAL,23,F,6-9,250 lbs,St. Vincent-St. Mary HS (OH),USA
-235,JaimeJaquez Jr.,MIA,11,G,6-6,225 lbs,UCLA,USA
-236,DaQuanJeffries,NYK,8,G-F,6-5,222 lbs,Tulsa,USA
-237,TyJerome,CLE,2,G-F,6-5,195 lbs,Virginia,USA
-238,IsaiahJoe,OKC,11,G,6-3,165 lbs,Arkansas,USA
-239,CameronJohnson,BKN,2,F,6-8,210 lbs,North Carolina,USA
-240,JalenJohnson,ATL,1,F,6-8,219 lbs,Duke,USA
-241,JamesJohnson,IND,16,F,6-7,240 lbs,Wake Forest,USA
-242,KeldonJohnson,SAS,3,F-G,6-5,220 lbs,Kentucky,USA
-243,KeonJohnson,BKN,45,G,6-5,185 lbs,Tennessee,USA
-244,KeyontaeJohnson,OKC,18,F,6-4,230 lbs,Kansas State,USA
-245,NikolaJokic,DEN,15,C,6-11,284 lbs,Mega Basket,Serbia
-246,ColbyJones,SAC,20,G,6-6,207 lbs,Xavier,USA
-247,DamianJones,CLE,30,C,6-10,245 lbs,Vanderbilt,USA
-248,HerbertJones,NOP,5,F,6-7,206 lbs,Alabama,USA
-249,TreJones,SAS,33,G,6-1,185 lbs,Duke,USA
-250,TyusJones,WAS,5,G,6-1,196 lbs,Duke,USA
-251,DerrickJones Jr.,DAL,55,F,6-6,210 lbs,UNLV,USA
-252,DeAndreJordan,DEN,6,C,6-11,265 lbs,Texas A&M,USA
-253,CoryJoseph,GSW,1,G,6-2,200 lbs,Texas,Canada
-254,NikolaJovic,MIA,5,F,6-10,205 lbs, ,Serbia
-255,JohnnyJuzang,UTA,33,G,6-5,209 lbs,UCLA,USA
-256,LukeKennard,MEM,10,G,6-5,206 lbs,Duke,USA
-257,WalkerKessler,UTA,24,C,7-0,245 lbs,Auburn,USA
-258,BraxtonKey,DEN,11,F,6-8,225 lbs,Virginia,USA
-259,CoreyKispert,WAS,24,F,6-6,224 lbs,Gonzaga,USA
-260,MaxiKleber,DAL,42,F,6-10,240 lbs,Bayern Munich,Germany
-261,KevinKnox II,DET,24,F,6-7,215 lbs,Kentucky,USA
-262,ChristianKoloko,TOR,35,C,7-0,230 lbs,Arizona,Cameroon
-263,JohnKonchar,MEM,46,G,6-5,210 lbs,Indiana-Purdue Fort Wayne,USA
-264,FurkanKorkmaz,PHI,30,G-F,6-7,202 lbs,Anadolu Efes,Turkey
-265,LukeKornet,BOS,40,C-F,7-1,250 lbs,Vanderbilt,USA
-266,JonathanKuminga,GSW,00,F,6-7,225 lbs,NBA G League Ignite,DRC
-267,KyleKuzma,WAS,33,F,6-9,221 lbs,Utah,USA
-268,JakeLaRavia,MEM,3,F,6-7,235 lbs,Wake Forest,USA
-269,ZachLaVine,CHI,8,G,6-5,200 lbs,UCLA,USA
-270,JockLandale,HOU,2,C,6-11,255 lbs,St. Mary's,Australia
-271,A.J.Lawson,DAL,9,G,6-6,179 lbs,South Carolina,Canada
-272,CarisLeVert,CLE,3,G,6-6,205 lbs,Michigan,USA
-273,DamionLee,PHX,10,G-F,6-6,210 lbs,Drexel,USA
-274,SabenLee,PHX,38,G,6-2,183 lbs,Vanderbilt,USA
-275,AlexLen,SAC,25,C,7-0,250 lbs,Maryland,Ukraine
-276,KawhiLeonard,LAC,2,F,6-7,225 lbs,San Diego State,USA
-277,MaxwellLewis,LAL,21,F,6-7,195 lbs,Pepperdine,USA
-278,KiraLewis Jr.,NOP,13,G,6-1,170 lbs,Alabama,USA
-279,E.J.Liddell,NOP,32,F,6-6,240 lbs,Ohio State,USA
-280,DamianLillard,MIL,0,G,6-2,195 lbs,Weber State,USA
-281,NassirLittle,PHX,25,F-G,6-6,220 lbs,North Carolina,USA
-282,DereckLively II,DAL,2,C,7-1,230 lbs,Duke,USA
-283,IsaiahLivers,DET,12,F,6-6,232 lbs,Michigan,USA
-284,ChrisLivingston,MIL,7,F,6-6,220 lbs,Kentucky,USA
-285,KennethLofton Jr.,MEM,6,F,6-6,275 lbs,Louisiana Tech,USA
-286,KevonLooney,GSW,5,F,6-9,222 lbs,UCLA,USA
-287,BrookLopez,MIL,11,C,7-1,282 lbs,Stanford,USA
-288,RobinLopez,MIL,42,C,7-1,281 lbs,Stanford,USA
-289,KevinLove,MIA,42,F-C,6-8,251 lbs,UCLA,USA
-290,KyleLowry,MIA,7,G,6-0,196 lbs,Villanova,USA
-291,SethLundy,ATL,3,G-F,6-4,220 lbs,Penn State,USA
-292,TreyLyles,SAC,41,F,6-9,234 lbs,Kentucky,Canada
-293,TheoMaledon,PHX,9,G,6-4,175 lbs,Asvel,France
-294,SandroMamukelashvili,SAS,54,F-C,6-9,240 lbs,Seton Hall,Georgia
-295,TeranceMann,LAC,14,G-F,6-5,215 lbs,Florida State,USA
-296,TreMann,OKC,23,G,6-3,178 lbs,Florida,USA
-297,BobanMarjanovic,HOU,51,C,7-4,290 lbs,Crvena zvezda,Serbia
-298,LauriMarkkanen,UTA,23,F-C,7-0,240 lbs,Arizona,Finland
-299,NajiMarshall,NOP,8,F,6-6,220 lbs,Xavier,USA
-300,CalebMartin,MIA,16,F,6-5,205 lbs,Nevada,USA
-301,CodyMartin,CHA,11,F,6-6,205 lbs,Nevada,USA
-302,JaylenMartin,NYK,16,G,6-6,216 lbs, ,USA
-303,KJMartin,PHI,1,F,6-6,215 lbs,IMG Academy (FL),USA
-304,GarrisonMathews,ATL,25,G,6-6,215 lbs,Lipscomb,USA
-305,BennedictMathurin,IND,00,G-F,6-5,210 lbs,Arizona,Canada
-306,WesleyMatthews,ATL,32,G,6-5,220 lbs,Marquette,USA
-307,TyreseMaxey,PHI,0,G,6-2,200 lbs,Kentucky,USA
-308,SkylarMays,POR,5,G,6-3,205 lbs,Louisiana State,USA
-309,MilesMcBride,NYK,2,G,6-1,195 lbs,West Virginia,USA
-310,CJMcCollum,NOP,3,G,6-3,190 lbs,Lehigh,USA
-311,T.J.McConnell,IND,9,G,6-1,190 lbs,Arizona,USA
-312,JadenMcDaniels,MIN,3,F,6-9,185 lbs,Washington,USA
-313,JalenMcDaniels,TOR,2,F,6-9,190 lbs,San Diego State,USA
-314,DougMcDermott,SAS,17,F,6-6,225 lbs,Creighton,USA
-315,JaValeMcGee,SAC,00,C-F,7-0,270 lbs,Nevada,USA
-316,BryceMcGowens,CHA,7,G,6-6,175 lbs,Nebraska,USA
-317,JordanMcLaughlin,MIN,6,G,6-0,185 lbs,Southern California,USA
-318,De'AnthonyMelton,PHI,8,G,6-3,200 lbs,Southern California,USA
-319,NathanMensah,CHA,,C,6-9,230 lbs,San Diego State,Ghana
-320,SamMerrill,CLE,5,G,6-4,205 lbs,Utah State,USA
-321,ChimezieMetu,PHX,4,F-C,6-10,225 lbs,Southern California,USA
-322,VasilijeMicic,OKC,29,G,6-3,188 lbs,Serbia,Serbia
-323,KhrisMiddleton,MIL,22,F,6-7,222 lbs,Texas A&M,USA
-324,BrandonMiller,CHA,24,F,6-7,200 lbs,Alabama,USA
-325,JordanMiller,LAC,11,G,6-5,194 lbs,Miami,USA
-326,LeonardMiller,MIN,33,F,6-10,210 lbs,NBA G League Ignite,Canada
-327,PattyMills,ATL,8,G,6-2,180 lbs,St. Mary's,Australia
-328,ShakeMilton,MIN,18,G-F,6-5,205 lbs,Southern Methodist,USA
-329,JustinMinaya,POR,24,F,6-5,205 lbs,Providence,USA
-330,JoshMinott,MIN,8,F,6-8,205 lbs,Memphis,USA
-331,DavionMitchell,SAC,15,G,6-0,202 lbs,Baylor,USA
-332,DonovanMitchell,CLE,45,G,6-3,215 lbs,Louisville,USA
-333,EvanMobley,CLE,4,C,6-11,215 lbs,Southern California,USA
-334,IsaiahMobley,CLE,15,F,6-8,238 lbs,Southern California,USA
-335,MalikMonk,SAC,0,G,6-3,200 lbs,Kentucky,USA
-336,MosesMoody,GSW,4,G,6-5,211 lbs,Arkansas,USA
-337,XavierMoon,LAC,15,G,6-0,165 lbs,Morehead State,USA
-338,WendellMoore Jr.,MIN,7,G,6-5,215 lbs,Duke,USA
-339,JaMorant,MEM,12,G,6-2,174 lbs,Murray State,USA
-340,MarkieffMorris,DAL,88,F,6-9,245 lbs,Kansas,USA
-341,MonteMorris,DET,5,G,6-2,183 lbs,Iowa State,USA
-342,MarcusMorris Sr.,PHI,5,F,6-8,218 lbs,Kansas,USA
-343,TreyMurphy III,NOP,25,F,6-8,206 lbs,Virginia,USA
-344,DejounteMurray,ATL,5,G,6-5,180 lbs,Washington,USA
-345,JamalMurray,DEN,27,G,6-4,215 lbs,Kentucky,Canada
-346,KeeganMurray,SAC,13,F,6-8,225 lbs,Iowa,USA
-347,KrisMurray,POR,8,F,6-8,210 lbs,Iowa,USA
-348,MikeMuscala,WAS,35,F-C,6-10,240 lbs,Bucknell,USA
-349,SviMykhailiuk,BOS,50,G-F,6-7,205 lbs,Kansas,Ukraine
-350,LarryNance Jr.,NOP,22,F-C,6-8,245 lbs,Wyoming,USA
-351,AndrewNembhard,IND,2,G-F,6-4,191 lbs,Gonzaga,Canada
-352,AaronNesmith,IND,23,G-F,6-6,215 lbs,Vanderbilt,USA
-353,GeorgesNiang,CLE,20,F,6-7,230 lbs,Iowa State,USA
-354,DaishenNix,MIN,12,G,6-3,226 lbs,NBA G League Ignite,USA
-355,ZekeNnaji,DEN,22,F-C,6-9,240 lbs,Arizona,USA
-356,MilesNorris,ATL,0,F,6-7,220 lbs,California-Santa Barbara,USA
-357,JaylenNowell,,,G,6-4,201 lbs,Washington,USA
-358,MarkquisNowell,TOR,24,G,5-7,160 lbs,Kansas State,USA
-359,FrankNtilikina,CHA,44,G,6-4,200 lbs,Strasbourg IG,France
-360,JusufNurkic,PHX,20,C,7-0,290 lbs,Cedevita,Bosnia and Herzegovina
-361,JordanNwora,IND,13,F,6-8,225 lbs,Louisville,USA
-362,RoyceO'Neale,BKN,00,F,6-6,226 lbs,Baylor,USA
-363,ChumaOkeke,ORL,3,F,6-7,229 lbs,Auburn,USA
-364,JoshOkogie,PHX,2,G,6-4,213 lbs,Georgia Tech,Nigeria
-365,OnyekaOkongwu,ATL,17,F-C,6-10,240 lbs,Southern California,USA
-366,IsaacOkoro,CLE,35,F-G,6-5,225 lbs,Auburn,USA
-367,VictorOladipo,HOU,3,G,6-3,213 lbs,Indiana,USA
-368,KellyOlynyk,UTA,41,F-C,6-11,240 lbs,Gonzaga,Canada
-369,EugeneOmoruyi,WAS,97,F,6-6,235 lbs,Oregon,Nigeria
-370,CediOsman,SAS,16,F,6-7,230 lbs,Anadolu Efes,Turkey
-371,KellyOubre Jr.,PHI,9,F-G,6-7,203 lbs,Kansas,USA
-372,ChrisPaul,GSW,3,G,6-0,175 lbs,Wake Forest,USA
-373,CameronPayne,MIL,15,G,6-3,183 lbs,Murray State,USA
-374,GaryPayton II,GSW,0,G,6-2,195 lbs,Oregon State,USA
-375,DrewPeterson,BOS,,F,6-9,205 lbs,Southern California,USA
-376,FilipPetrusev,,,C,6-11,225 lbs,Gonzaga,Serbia
-377,JulianPhillips,CHI,15,F,6-8,198 lbs,Tennessee,USA
-378,JalenPickett,DEN,24,G,6-2,202 lbs,Penn State,USA
-379,MasonPlumlee,LAC,44,F-C,6-10,254 lbs,Duke,USA
-380,BrandinPodziemski,GSW,2,G,6-4,205 lbs,Santa Clara,USA
-381,JakobPoeltl,TOR,19,C,7-0,260 lbs,Utah,Austria
-382,AleksejPokusevski,OKC,17,F,7-0,210 lbs,Olympiacos,Serbia
-383,JordanPoole,WAS,13,G,6-4,194 lbs,Michigan,USA
-384,JontayPorter,TOR,4,C-F,6-10,240 lbs,Missouri,USA
-385,CraigPorter Jr.,CLE,9,G,6-1,180 lbs,Wichita State,USA
-386,MichaelPorter Jr.,DEN,1,F,6-10,218 lbs,Missouri,USA
-387,OttoPorter Jr.,TOR,32,F,6-8,230 lbs,Georgetown,USA
-388,BobbyPortis,MIL,9,F,6-10,250 lbs,Arkansas,USA
-389,KristapsPorzingis,BOS,8,F-C,7-2,240 lbs,Cajasol Sevilla,Latvia
-390,MicahPotter,UTA,25,C,6-9,248 lbs,Wisconsin,USA
-391,DwightPowell,DAL,7,F-C,6-10,240 lbs,Stanford,Canada
-392,NormanPowell,LAC,24,G,6-4,215 lbs,UCLA,USA
-393,JoshuaPrimo,LAC,12,G,6-4,189 lbs,Alabama,Canada
-394,TaureanPrince,LAL,12,F,6-6,218 lbs,Baylor,USA
-395,PaytonPritchard,BOS,11,G,6-1,195 lbs,Oregon,USA
-396,Olivier-MaxenceProsper,DAL,18,F,6-7,230 lbs,Marquette,Canada
-397,TrevelinQueen,ORL,12,G,6-5,190 lbs,New Mexico State,USA
-398,NeemiasQueta,BOS,88,C,7-0,248 lbs,Utah State,Portugal
-399,ImmanuelQuickley,NYK,5,G,6-2,190 lbs,Kentucky,USA
-400,LesterQuinones,GSW,25,G,6-4,208 lbs,Memphis,USA
-401,JuliusRandle,NYK,30,F-C,6-8,250 lbs,Kentucky,USA
-402,DuopReath,POR,26,C,6-9,245 lbs,Louisiana State,South Sudan
-403,AustinReaves,LAL,15,G,6-5,197 lbs,Oklahoma,USA
-404,CamReddish,LAL,5,F-G,6-7,217 lbs,Duke,USA
-405,PaulReed,PHI,44,F,6-9,210 lbs,DePaul,USA
-406,NazReid,MIN,11,C-F,6-9,264 lbs,Louisiana State,USA
-407,JaredRhoden,DET,8,G,6-5,210 lbs,Seton Hall,USA
-408,NickRichards,CHA,4,C,7-0,245 lbs,Kentucky,Jamaica
-409,JoshRichardson,MIA,0,G,6-5,200 lbs,Tennessee,USA
-410,DuncanRobinson,MIA,55,F,6-7,215 lbs,Michigan,USA
-411,JeromeRobinson,GSW,18,G,6-5,190 lbs,Boston College,USA
-412,MitchellRobinson,NYK,23,C-F,7-0,240 lbs,Western Kentucky,USA
-413,OrlandoRobinson,MIA,25,C,6-10,235 lbs,Fresno State,USA
-414,JeremiahRobinson-Earl,NOP,50,F,6-8,240 lbs,Villanova,USA
-415,DavidRoddy,MEM,21,F,6-4,255 lbs,Colorado State,USA
-416,RyanRollins,WAS,9,G,6-3,180 lbs,Toledo,USA
-417,DerrickRose,MEM,23,G,6-3,200 lbs,Memphis,USA
-418,TerryRozier,CHA,3,G,6-1,190 lbs,Louisville,USA
-419,RickyRubio,CLE,13,G,6-2,190 lbs,FC Barcelona,Spain
-420,RayanRupert,POR,72,G-F,6-6,185 lbs,New Zealand Breakers,France
-421,D'AngeloRussell,LAL,1,G,6-3,193 lbs,Ohio State,USA
-422,MattRyan,NOP,37,F,6-6,215 lbs,Tennessee-Chattanooga,USA
-423,DomantasSabonis,SAC,10,F-C,6-10,240 lbs,Gonzaga,Lithuania
-424,LukaSamanic,UTA,19,F,6-10,227 lbs,Union Olimpija,Croatia
-425,JermaineSamuels Jr.,HOU,00,F,6-6,230 lbs,Villanova,USA
-426,AdamaSanogo,CHI,21,F,6-9,245 lbs,Connecticut,Mali
-427,GuiSantos,GSW,15,F,6-6,185 lbs, ,Brazil
-428,DarioSaric,GSW,20,F-C,6-10,225 lbs,Anadolu Efes,Croatia
-429,OlivierSarr,OKC,30,C,6-10,240 lbs,Kentucky,France
-430,MarcusSasser,DET,25,G,6-2,195 lbs,Houston,USA
-431,AdmiralSchofield,ORL,25,F,6-5,241 lbs,Tennessee,United Kingdom
-432,DennisSchroder,TOR,17,G,6-1,175 lbs,Braunschweig,Germany
-433,DereonSeabron,NOP,0,G,6-5,180 lbs,North Carolina State,USA
-434,AlperenSengun,HOU,28,C,6-11,243 lbs,Besiktas,Turkey
-435,BriceSensabaugh,UTA,8,F,6-5,235 lbs,Ohio State,USA
-436,CollinSexton,UTA,2,G,6-3,190 lbs,Alabama,USA
-437,LandryShamet,WAS,20,G,6-4,190 lbs,Wichita State,USA
-438,Day'RonSharpe,BKN,20,C,6-9,265 lbs,North Carolina,USA
-439,ShaedonSharpe,POR,17,G,6-5,205 lbs,Kentucky,Canada
-440,BenSheppard,IND,26,G,6-6,190 lbs,Belmont,USA
-441,PascalSiakam,TOR,43,F,6-8,245 lbs,New Mexico State,Cameroon
-442,BenSimmons,BKN,10,G-F,6-10,240 lbs,Louisiana State,Australia
-443,AnferneeSimons,POR,1,G,6-3,193 lbs,Edgewater HS (FL),USA
-444,JerichoSims,NYK,45,C,6-10,250 lbs,Texas,USA
-445,JalenSlawson,SAC,18,F,6-7,215 lbs,Furman,USA
-446,JavonteSmart,PHI,39,G,6-4,205 lbs,Louisiana State,USA
-447,MarcusSmart,MEM,36,G,6-3,220 lbs,Oklahoma State,USA
-448,DruSmith,MIA,9,G,6-2,203 lbs,Missouri,USA
-449,IshSmith,CHA,14,G,6-0,175 lbs,Wake Forest,USA
-450,JalenSmith,IND,25,F-C,6-9,215 lbs,Maryland,USA
-451,TerquavionSmith,PHI,23,G,6-4,160 lbs,North Carolina State,USA
-452,DennisSmith Jr.,BKN,4,G,6-3,205 lbs,North Carolina State,USA
-453,JabariSmith Jr.,HOU,10,F,6-11,220 lbs,Auburn,USA
-454,NickSmith Jr.,CHA,8,G,6-2,185 lbs,Arkansas,USA
-455,JeremySochan,SAS,10,F,6-8,230 lbs,Baylor,Poland
-456,JadenSpringer,PHI,11,G,6-4,202 lbs,Tennessee,USA
-457,LamarStevens,BOS,77,F,6-7,230 lbs,Penn State,USA
-458,IsaiahStewart,DET,28,F-C,6-8,250 lbs,Washington,USA
-459,JulianStrawther,DEN,3,G,6-6,205 lbs,Gonzaga,USA
-460,MaxStrus,CLE,1,G-F,6-5,215 lbs,DePaul,USA
-461,JalenSuggs,ORL,4,G,6-5,205 lbs,Gonzaga,USA
-462,ColeSwider,MIA,21,F,6-8,220 lbs,Syracuse,USA
-463,Jae'SeanTate,HOU,8,F,6-4,230 lbs,Ohio State,USA
-464,JaysonTatum,BOS,0,F-G,6-8,210 lbs,Duke,USA
-465,TerryTaylor,CHI,32,F,6-4,230 lbs,Austin Peay,USA
-466,GarrettTemple,TOR,14,G-F,6-5,195 lbs,Louisiana State,USA
-467,DalenTerry,CHI,25,F,6-7,195 lbs,Arizona,USA
-468,DanielTheis,LAC,10,F-C,6-8,245 lbs,Brose Bamberg,Germany
-469,CamThomas,BKN,24,G,6-3,210 lbs,Louisiana State,Japan
-470,AmenThompson,HOU,1,G-F,6-7,200 lbs,Overtime Elite,USA
-471,AusarThompson,DET,9,G-F,6-6,205 lbs,Overtime Elite,USA
-472,KlayThompson,GSW,11,G,6-6,220 lbs,Washington State,USA
-473,TristanThompson,CLE,12,C-F,6-9,254 lbs,Texas-Austin,Canada
-474,JTThor,CHA,21,F,6-9,203 lbs,Auburn,USA
-475,MatisseThybulle,POR,4,G-F,6-5,201 lbs,Washington,USA
-476,XavierTillman,MEM,2,F,6-7,245 lbs,Michigan State,USA
-477,JacobToppin,NYK,00,F,6-8,200 lbs,Kentucky,USA
-478,ObiToppin,IND,1,F,6-9,220 lbs,Dayton,USA
-479,JuanToscano-Anderson,SAC,95,F,6-6,209 lbs,Marquette,USA
-480,Karl-AnthonyTowns,MIN,32,C-F,7-0,248 lbs,Kentucky,USA
-481,GaryTrent Jr.,TOR,33,G,6-5,204 lbs,Duke,USA
-482,OscarTshiebwe,IND,44,F-C,6-8,255 lbs,Kentucky,DRC
-483,P.J.Tucker,LAC,17,F,6-5,245 lbs,Texas,USA
-484,MylesTurner,IND,33,C-F,6-11,250 lbs,Texas,USA
-485,HunterTyson,DEN,4,F,6-8,215 lbs,Clemson,USA
-486,StanleyUmude,DET,17,G,6-6,210 lbs,Arkansas,USA
-487,JonasValanciunas,NOP,17,C,6-11,265 lbs,Lietuvos rytas Vilnius,Lithuania
-488,FredVanVleet,HOU,5,G,6-0,197 lbs,Wichita State,USA
-489,JarredVanderbilt,LAL,2,F,6-8,214 lbs,Kentucky,USA
-490,DevinVassell,SAS,24,G-F,6-5,200 lbs,Florida State,USA
-491,SashaVezenkov,SAC,7,F,6-8,225 lbs,"Barcelona, Spain",Bulgaria
-492,GabeVincent,LAL,7,G,6-2,200 lbs,California-Santa Barbara,USA
-493,NikolaVucevic,CHI,9,C,6-10,260 lbs,Southern California,Montenegro
-494,DeanWade,CLE,32,F-C,6-9,228 lbs,Kansas State,USA
-495,FranzWagner,ORL,22,F,6-10,220 lbs,Michigan,Germany
-496,MoritzWagner,ORL,21,F-C,6-11,245 lbs,Michigan,Germany
-497,IshWainright,POR,23,F,6-5,250 lbs,Baylor,USA
-498,JabariWalker,POR,34,F,6-7,227 lbs,Colorado,USA
-499,JaraceWalker,IND,5,F,6-7,235 lbs,Houston,USA
-500,LonnieWalker IV,BKN,8,G-F,6-4,204 lbs,Miami,USA
-501,CasonWallace,OKC,22,G,6-3,195 lbs,Kentucky,USA
-502,JordanWalsh,BOS,27,G,6-6,205 lbs,Arkansas,USA
-503,P.J.Washington,CHA,25,F,6-7,230 lbs,Kentucky,USA
-504,TyTyWashington Jr.,MIL,23,G,6-3,195 lbs,Kentucky,USA
-505,YutaWatanabe,PHX,18,G-F,6-9,215 lbs,George Washington,Japan
-506,LindyWaters III,OKC,12,F,6-6,210 lbs,Oklahoma State,USA
-507,TrendonWatford,BKN,9,F,6-8,237 lbs,Louisiana State,USA
-508,PeytonWatson,DEN,8,G,6-7,200 lbs,UCLA,USA
-509,VictorWembanyama,SAS,1,F-C,7-4,210 lbs,Metropolitans 92,France
-510,BlakeWesley,SAS,14,G,6-3,185 lbs,Notre Dame,USA
-511,RussellWestbrook,LAC,0,G,6-4,200 lbs,UCLA,USA
-512,CobyWhite,CHI,0,G,6-5,195 lbs,North Carolina,USA
-513,DerrickWhite,BOS,9,G,6-4,190 lbs,Colorado,USA
-514,DariqWhitehead,BKN,0,F,6-6,220 lbs,Duke,USA
-515,CamWhitmore,HOU,7,F,6-7,230 lbs,Villanova,USA
-516,AaronWiggins,OKC,21,G,6-5,190 lbs,Maryland,USA
-517,AndrewWiggins,GSW,22,F,6-7,197 lbs,Kansas,Canada
-518,LindellWigginton,MIL,28,G,6-1,189 lbs,Iowa State,Canada
-519,GrantWilliams,DAL,3,F,6-6,236 lbs,Tennessee,USA
-520,JalenWilliams,OKC,8,G-F,6-5,211 lbs,Santa Clara,USA
-521,JaylinWilliams,OKC,6,F,6-9,240 lbs,Arkansas,USA
-522,KenrichWilliams,OKC,34,G-F,6-6,210 lbs,TCU,USA
-523,MarkWilliams,CHA,5,C,7-0,240 lbs,Duke,USA
-524,NateWilliams,HOU,19,G,6-5,205 lbs,Buffalo,USA
-525,PatrickWilliams,CHI,44,F,6-7,215 lbs,Florida State,USA
-526,ZiaireWilliams,MEM,8,F,6-9,185 lbs,Stanford,USA
-527,RobertWilliams III,POR,35,C-F,6-9,249 lbs,Texas A&M,USA
-528,VinceWilliams Jr.,MEM,5,G,6-4,205 lbs,Virginia Commonwealth,USA
-529,ZionWilliamson,NOP,1,F,6-6,284 lbs,Duke,USA
-530,JalenWilson,BKN,22,F,6-6,220 lbs,Kansas,USA
-531,DylanWindler,,,G-F,6-7,196 lbs,Belmont,USA
-532,JamesWiseman,DET,13,C,6-11,240 lbs,Memphis,USA
-533,IsaiahWong,IND,21,G,6-3,185 lbs,Miami,USA
-534,ChristianWood,LAL,35,F,6-8,214 lbs,UNLV,USA
-535,DelonWright,WAS,55,G,6-5,185 lbs,Utah,USA
-536,ThaddeusYoung,TOR,21,F,6-8,225 lbs,Georgia Tech,USA
-537,TraeYoung,ATL,11,G,6-1,164 lbs,Oklahoma,USA
-538,OmerYurtseven,UTA,77,C,6-11,275 lbs,Georgetown,Turkey
-539,CodyZeller,NOP,40,F-C,6-11,240 lbs,Indiana,USA
-540,IvicaZubac,LAC,40,C,7-0,240 lbs,Mega Basket,Croatia
+0,Precious Achiuwa,NYK,5,F,6-8,243 lbs,Memphis,Nigeria
+1,Steven Adams,HOU,12,C,6-11,265 lbs,Pittsburgh,New Zealand
+2,Bam Adebayo,MIA,13,C-F,6-9,255 lbs,Kentucky,USA
+3,Ochai Agbaji,TOR,30,G,6-5,215 lbs,Kansas,USA
+4,Melvin Ajinca,DAL,,F,6-8,210 lbs,Saint-Quentin,France
+5,James Akinjo,MIL,,G,6-1,190 lbs,Baylor,USA
+6,Santi Aldama,MEM,7,F-C,7-0,215 lbs,Loyola-Maryland,Spain
+7,Trey Alexander,DEN,20,G,6-4,185 lbs,Creighton,USA
+8,Nickeil Alexander-Walker,MIN,9,G,6-5,205 lbs,Virginia Tech,Canada
+9,Grayson Allen,PHX,8,G,6-4,198 lbs,Duke,USA
+10,Jarrett Allen,CLE,31,C,6-9,243 lbs,Texas,USA
+11,Jose Alvarado,NOP,15,G,6-0,179 lbs,Georgia Tech,USA
+12,Kyle Anderson,GSW,1,F-G,6-9,230 lbs,UCLA,USA
+13,Giannis Antetokounmpo,MIL,34,F,6-11,243 lbs,Filathlitikos,Greece
+14,Thanasis Antetokounmpo,MIL,43,F,6-7,219 lbs,Panathinaikos,Greece
+15,Cole Anthony,ORL,50,G,6-2,185 lbs,North Carolina,USA
+16,OG Anunoby,NYK,8,F-G,6-7,240 lbs,Indiana,United Kingdom
+17,Deni Avdija,POR,8,F,6-9,210 lbs,Maccabi Tel Aviv,Israel
+18,Deandre Ayton,POR,2,C,7-0,247 lbs,Arizona,Bahamas
+19,Udoka Azubuike,PHX,27,C-F,6-11,270 lbs,Kansas,Nigeria
+20,Ibou Badji,POR,41,C,7-0,240 lbs,FC Barcelona,Senegal
+21,Marvin Bagley III,WAS,35,F,6-10,235 lbs,Duke,USA
+22,Patrick Baldwin Jr.,WAS,7,F,6-9,220 lbs,Wisconsin-Milwaukee,USA
+23,LaMelo Ball,CHA,1,G,6-7,180 lbs,Illawarra,USA
+24,Lonzo Ball,CHI,2,G,6-6,190 lbs,UCLA,USA
+25,Mo Bamba,LAC,4,C,7-0,231 lbs,Texas,USA
+26,Paolo Banchero,ORL,5,F,6-10,250 lbs,Duke,USA
+27,Desmond Bane,MEM,22,G,6-5,215 lbs,TCU,USA
+28,Dalano Banton,POR,5,F,6-8,204 lbs,Nebraska,Canada
+29,Dominick Barlow,ATL,26,F,6-9,215 lbs,Overtime Elite,USA
+30,Harrison Barnes,SAS,40,F,6-8,225 lbs,North Carolina,USA
+31,Scottie Barnes,TOR,4,F-G,6-7,237 lbs,Florida State,USA
+32,RJ Barrett,TOR,9,F-G,6-6,214 lbs,Duke,Canada
+33,Charles Bassey,SAS,28,C-F,6-10,230 lbs,Western Kentucky,Nigeria
+34,Emoni Bates,CLE,21,F,6-8,170 lbs,Eastern Michigan,USA
+35,Keita Bates-Diop,NYK,13,F,6-8,229 lbs,Ohio State,USA
+36,Jamison Battle,TOR,,F,6-7,220 lbs,Ohio State,USA
+37,Nicolas Batum,LAC,33,G-F,6-8,230 lbs,Le Mans,France
+38,Bradley Beal,PHX,3,G,6-4,207 lbs,Florida,USA
+39,Malik Beasley,DET,5,G,6-4,187 lbs,Florida State,USA
+40,MarJon Beauchamp,MIL,3,F,6-7,199 lbs,NBA G League Ignite,USA
+41,Reece Beekman,GSW,3,G,6-3,190 lbs,Virginia,USA
+42,Jules Bernard,WAS,14,G,6-6,210 lbs,UCLA,USA
+43,Patrick Beverley,MIL,21,G,6-2,180 lbs,Arkansas,USA
+44,Saddiq Bey,WAS,41,G-F,6-7,215 lbs,Villanova,USA
+45,Goga Bitadze,ORL,35,C-F,6-10,250 lbs,Mega Basket,Georgia
+46,Onuralp Bitim,CHI,17,F,6-6,215 lbs,Bursaspor,Turkey
+47,Anthony Black,ORL,0,G,6-7,200 lbs,Arkansas,USA
+48,Bogdan Bogdanovic,ATL,13,G,6-5,225 lbs,Fenerbahce,Serbia
+49,Bojan Bogdanovic,BKN,44,F,6-7,226 lbs,Fenerbahce,Croatia
+50,Bol Bol,PHX,11,C-F,7-3,220 lbs,Oregon,Sudan
+51,Adem Bona,PHI,,F,6-10,235 lbs,UCLA,Nigeria
+52,Devin Booker,PHX,1,G,6-6,206 lbs,Kentucky,USA
+53,Brandon Boston Jr.,SAS,4,G,6-6,188 lbs,Kentucky,USA
+54,Chris Boucher,TOR,25,F,6-9,200 lbs,Oregon,Saint Lucia
+55,Jamaree Bouyea,SAS,21,G,6-2,180 lbs,San Francisco,USA
+56,Malaki Branham,SAS,22,F,6-4,180 lbs,Ohio State,USA
+57,Christian Braun,DEN,0,G,6-6,220 lbs,Kansas,USA
+58,Jalen Bridges,PHX,,F,6-8,225 lbs,Baylor,USA
+59,Mikal Bridges,NYK,25,G-F,6-6,209 lbs,Villanova,USA
+60,Miles Bridges,CHA,0,F,6-7,225 lbs,Michigan State,USA
+61,Oshae Brissett,BOS,12,F-G,6-7,210 lbs,Syracuse,Canada
+62,Malcolm Brogdon,WAS,11,G,6-4,229 lbs,Virginia,USA
+63,Dillon Brooks,HOU,9,G-F,6-6,225 lbs,Oregon,Canada
+64,Bruce Brown,TOR,11,G-F,6-4,202 lbs,Miami,USA
+65,Jaylen Brown,BOS,7,G-F,6-6,223 lbs,California,USA
+66,Kendall Brown,IND,10,G,6-7,205 lbs,Baylor,USA
+67,Kobe Brown,LAC,21,F,6-7,250 lbs,Missouri,USA
+68,Moses Brown,POR,10,C,7-2,258 lbs,UCLA,USA
+69,Greg Brown III,DAL,36,F,6-7,206 lbs,Texas,USA
+70,Charlie Brown Jr.,NYK,4,G,6-6,199 lbs,St. Joseph's (PA),USA
+71,Jalen Brunson,NYK,11,G,6-2,190 lbs,Villanova,USA
+72,Thomas Bryant,MIA,31,C-F,6-10,248 lbs,Indiana,USA
+73,Kobe Bufkin,ATL,4,G,6-5,195 lbs,Michigan,USA
+74,Reggie Bullock Jr.,HOU,25,G-F,6-6,205 lbs,North Carolina,USA
+75,Alec Burks,MIA,18,G,6-5,214 lbs,Colorado,USA
+76,Jared Butler,WAS,4,G,6-3,193 lbs,Baylor,USA
+77,Jimmy Butler,MIA,22,F,6-7,230 lbs,Marquette,USA
+78,Matas Buzelis,CHI,14,F,6-10,209 lbs,NBA G League Ignite,USA
+79,Jamal Cain,NOP,8,F,6-6,191 lbs,Oakland,USA
+80,Kentavious Caldwell-Pope,ORL,5,G,6-5,204 lbs,Georgia,USA
+81,Toumani Camara,POR,33,F,6-7,226 lbs,Dayton,Belgium
+82,Vlatko Cancar,DEN,31,F,6-8,236 lbs,San Pablo Burgos,Slovenia
+83,Clint Capela,ATL,15,C,6-10,256 lbs,Elan Chalon,Switzerland
+84,Branden Carlson,TOR,,C,7-0,220 lbs,Utah,USA
+85,Carlton Carrington,WAS,17,G,6-6,190 lbs,Pittsburgh,USA
+86,Devin Carter,SAC,,G,6-3,195 lbs,Providence,USA
+87,Jevon Carter,CHI,5,G,6-1,200 lbs,West Virginia,USA
+88,Wendell Carter Jr.,ORL,34,C-F,6-10,270 lbs,Duke,USA
+89,DJ Carton,TOR,3,G,6-3,200 lbs,Marquette,USA
+90,Alex Caruso,OKC,9,G,6-5,186 lbs,Texas A&M,USA
+91,Stephon Castle,SAS,,G,6-6,215 lbs,Connecticut,USA
+92,Colin Castleton,LAL,14,C,6-10,250 lbs,Florida,USA
+93,Julian Champagnie,SAS,30,F,6-7,217 lbs,St. John's,USA
+94,Justin Champagnie,WAS,9,G-F,6-6,206 lbs,Pittsburgh,USA
+95,Ulrich Chomche,TOR,,C,6-11,235 lbs,NBA Global Academy,Cameroon
+96,Cam Christie,LAC,12,G,6-6,190 lbs,Minnesota,USA
+97,Max Christie,LAL,12,G,6-5,190 lbs,Michigan State,USA
+98,Josh Christopher,MIA,13,G,6-4,215 lbs,Arizona State,USA
+99,Sidy Cissoko,SAS,25,G,6-6,200 lbs,NBA G League Ignite,France
+100,Jaylen Clark,MIN,0,G,6-4,205 lbs,UCLA,USA
+101,Brandon Clarke,MEM,15,F,6-8,215 lbs,Gonzaga,Canada
+102,Jordan Clarkson,UTA,00,G,6-3,194 lbs,Missouri,USA
+103,Nic Claxton,BKN,33,C,6-11,215 lbs,Georgia,USA
+104,Donovan Clingan,POR,,C,7-2,280 lbs,Connecticut,USA
+105,Noah Clowney,BKN,21,F,6-9,210 lbs,Alabama,USA
+106,Amir Coffey,LAC,7,G-F,6-7,210 lbs,Minnesota,USA
+107,Isaiah Collier,UTA,,G,6-4,210 lbs,Southern California,USA
+108,John Collins,UTA,20,F-C,6-9,226 lbs,Wake Forest,USA
+109,Zach Collins,SAS,23,F-C,6-11,250 lbs,Gonzaga,USA
+110,Mike Conley,MIN,10,G,6-0,175 lbs,Ohio State,USA
+111,Pat Connaughton,MIL,24,G,6-5,209 lbs,Notre Dame,USA
+112,Bilal Coulibaly,WAS,0,G,6-8,195 lbs,Metropolitans 92,France
+113,Ricky Council IV,PHI,14,G,6-6,207 lbs,Arkansas,USA
+114,Torrey Craig,CHI,13,F,6-5,221 lbs,South Carolina Upstate,USA
+115,Isaiah Crawford,SAC,,F,6-6,220 lbs,Louisiana Tech,USA
+116,Jae Crowder,MIL,99,F,6-6,235 lbs,Marquette,USA
+117,Cade Cunningham,DET,2,G,6-6,220 lbs,Oklahoma State,USA
+118,Seth Curry,CHA,30,G,6-1,185 lbs,Duke,USA
+119,Stephen Curry,GSW,30,G,6-2,185 lbs,Davidson,USA
+120,Tristan da Silva,ORL,,F,6-8,217 lbs,Colorado,Germany
+121,Pacome Dadiet,NYK,,F,6-8,210 lbs,Ratiopharm Ulm,France
+122,Dyson Daniels,ATL,11,G,6-7,199 lbs,NBA G League Ignite,Australia
+123,N'Faly Dante,HOU,,C,7-0,230 lbs,Oregon,Mali
+124,Anthony Davis,LAL,3,F-C,6-10,253 lbs,Kentucky,USA
+125,Johnny Davis,WAS,1,G,6-4,195 lbs,Wisconsin,USA
+126,JD Davison,BOS,20,G,6-1,195 lbs,Alabama,USA
+127,DeMar DeRozan,SAC,10,G-F,6-6,220 lbs,Southern California,USA
+128,Moussa Diabate,CHA,25,F,6-9,210 lbs,Michigan,France
+129,Gradey Dick,TOR,1,G-F,6-6,200 lbs,Kansas,USA
+130,Ousmane Dieng,OKC,13,F,6-9,185 lbs,New Zealand Breakers,France
+131,Rob Dillingham,MIN,4,G,6-3,175 lbs,Kentucky,USA
+132,Spencer Dinwiddie,DAL,26,G,6-5,215 lbs,Colorado,USA
+133,Donte DiVincenzo,NYK,0,G,6-4,203 lbs,Villanova,USA
+134,Nikola Djurisic,ATL,,G,6-8,214 lbs,Mega Basket,Belgium
+135,Marcus Domask,CHI,,G-F,6-6,215 lbs,Illinois,USA
+136,Luka Doncic,DAL,77,F-G,6-7,230 lbs,Real Madrid,Slovenia
+137,Luguentz Dort,OKC,5,G,6-4,220 lbs,Arizona State,Canada
+138,Ayo Dosunmu,CHI,11,G,6-5,200 lbs,Illinois,USA
+139,Jeff Dowtin Jr.,PHI,11,G,6-3,177 lbs,Rhode Island,USA
+140,PJ Dozier,MIN,35,G-F,6-6,205 lbs,South Carolina,USA
+141,Henri Drell,POR,77,F,6-9,220 lbs,Victoria Libertas,Estonia
+142,Andre Drummond,PHI,5,C,6-11,279 lbs,Connecticut,USA
+143,Chris Duarte,CHI,3,G,6-5,190 lbs,Oregon,Dominican Republic
+144,Alex Ducas,OKC,,G,6-7,220 lbs,Mount Saint Mary's,USA
+145,David Duke Jr.,SAS,28,G,6-4,204 lbs,Providence,USA
+146,Kris Dunn,LAC,8,G,6-3,205 lbs,Providence,USA
+147,Ryan Dunn,PHX,0,F,6-8,216 lbs,Virginia,USA
+148,Kevin Durant,PHX,35,F,6-11,240 lbs,Texas,USA
+149,Jalen Duren,DET,0,C,6-10,250 lbs,Memphis,USA
+150,Tari Eason,HOU,17,F,6-8,215 lbs,Louisiana State,USA
+151,Zach Edey,MEM,,C,7-4,305 lbs,Purdue,Canada
+152,Anthony Edwards,MIN,5,G,6-4,225 lbs,Georgia,USA
+153,Jesse Edwards,MIN,,C,6-11,230 lbs,West Virginia,Netherlands
+154,Justin Edwards,PHI,,F,6-8,203 lbs,Kentucky,USA
+155,Kessler Edwards,DAL,17,F,6-7,203 lbs,Pepperdine,USA
+156,Keon Ellis,SAC,23,G,6-3,175 lbs,Alabama,USA
+157,Joel Embiid,PHI,21,C-F,7-0,280 lbs,Kansas,Cameroon
+158,Tristan Enaruna,BOS,,F,6-8,220 lbs,Cleveland State,Netherlands
+159,Drew Eubanks,UTA,14,F-C,6-10,245 lbs,Oregon State,USA
+160,Tosan Evbuomwan,DET,18,F,6-7,217 lbs,Princeton,United Kingdom
+161,Dante Exum,DAL,0,G,6-5,214 lbs,Australian Institute of Sport,Australia
+162,Bruno Fernando,TOR,24,F-C,6-9,240 lbs,Maryland,Angola
+163,Kyle Filipowski,UTA,22,C,7-0,250 lbs,Duke,USA
+164,Dorian Finney-Smith,BKN,28,F,6-7,220 lbs,Florida,USA
+165,Adam Flagler,OKC,14,G,6-3,180 lbs,Baylor,USA
+166,Trentyn Flowers,LAC,,F,6-9,185 lbs,Adelaide,USA
+167,Malachi Flynn,SAS,18,G,6-1,185 lbs,San Diego State,USA
+168,Simone Fontecchio,DET,19,F,6-7,209 lbs,Baskonia,Italy
+169,Jordan Ford,SAC,31,G,6-1,175 lbs,St. Mary's College,USA
+170,Trent Forrest,ATL,2,G,6-4,210 lbs,Florida State,USA
+171,De'Aaron Fox,SAC,5,G,6-3,185 lbs,Kentucky,USA
+172,Enrique Freeman,IND,8,F,6-7,206 lbs,Akron,USA
+173,Johnny Furphy,IND,12,G,6-9,200 lbs,Kansas,Australia
+174,Daniel Gafford,DAL,21,F-C,6-10,234 lbs,Arkansas,USA
+175,Danilo Gallinari,MIL,12,F,6-10,236 lbs,Olimpia Milano,Italy
+176,Darius Garland,CLE,10,G,6-1,192 lbs,Vanderbilt,USA
+177,Usman Garuba,GSW,12,F,6-8,229 lbs,Real Madrid,Spain
+178,Luka Garza,MIN,55,C,6-10,243 lbs,Iowa,USA
+179,Keyonte George,UTA,3,G,6-4,185 lbs,Baylor,USA
+180,Kyshawn George,WAS,18,F,6-8,200 lbs,Miami,Switzerland
+181,Paul George,PHI,8,F,6-8,220 lbs,Fresno State,USA
+182,Taj Gibson,CHA,67,F,6-9,232 lbs,Southern California,USA
+183,Josh Giddey,CHI,3,G,6-8,216 lbs,NBA Global Academy,Australia
+184,Harry Giles III,LAL,20,F-C,6-10,240 lbs,Duke,USA
+185,Shai Gilgeous-Alexander,OKC,2,G,6-6,195 lbs,Kentucky,Canada
+186,Anthony Gill,WAS,16,F,6-8,230 lbs,Virginia,USA
+187,Collin Gillespie,PHX,21,G,6-1,195 lbs,Villanova,USA
+188,Rudy Gobert,MIN,27,C,7-1,258 lbs,Cholet,France
+189,Jordan Goodwin,MEM,0,G,6-4,200 lbs,St. Louis,USA
+190,Aaron Gordon,DEN,32,F,6-8,235 lbs,Arizona,USA
+191,Eric Gordon,PHI,23,G,6-3,215 lbs,Indiana,USA
+192,Jazian Gortman,DAL,,G,6-2,184 lbs,Overtime Elite,USA
+193,Devonte' Graham,POR,4,G,6-1,195 lbs,Kansas,USA
+194,Jerami Grant,POR,9,F,6-7,210 lbs,Syracuse,USA
+195,AJ Green,MIL,20,G,6-4,190 lbs,Northern Iowa,USA
+196,Draymond Green,GSW,23,F,6-6,230 lbs,Michigan State,USA
+197,Jalen Green,HOU,4,G,6-4,186 lbs,NBA G League Ignite,USA
+198,Javonte Green,NOP,24,G,6-5,205 lbs,Radford,USA
+199,Jeff Green,HOU,32,F,6-8,235 lbs,Georgetown,USA
+200,Josh Green,CHA,8,G,6-5,200 lbs,Arizona,Australia
+201,AJ Griffin,HOU,14,F,6-6,220 lbs,Duke,USA
+202,Quentin Grimes,DAL,5,G,6-5,210 lbs,Houston,USA
+203,Mouhamed Gueye,ATL,18,F,6-10,210 lbs,Washington State,Senegal
+204,Rui Hachimura,LAL,28,F,6-8,230 lbs,Gonzaga,Japan
+205,Ashton Hagans,POR,19,G-F,6-3,190 lbs,Kentucky,USA
+206,Tyrese Haliburton,IND,0,G,6-5,185 lbs,Iowa State,USA
+207,PJ Hall,DEN,25,C,6-10,245 lbs,Clemson,USA
+208,Tim Hardaway Jr.,DET,10,G-F,6-5,205 lbs,Michigan,USA
+209,James Harden,LAC,1,G,6-5,220 lbs,Arizona State,USA
+210,Jaden Hardy,DAL,1,G,6-3,198 lbs,NBA G League Ignite,USA
+211,Ron Harper Jr.,BOS,8,G-F,6-4,233 lbs,Rutgers,USA
+212,Gary Harris,ORL,14,G,6-4,210 lbs,Michigan State,USA
+213,Tobias Harris,DET,12,F,6-8,226 lbs,Tennessee,USA
+214,Josh Hart,NYK,3,G,6-4,215 lbs,Villanova,USA
+215,Isaiah Hartenstein,OKC,55,C-F,7-0,250 lbs,Zalgiris,Germany
+216,Sam Hauser,BOS,30,F,6-7,217 lbs,Virginia,USA
+217,Jordan Hawkins,NOP,24,G,6-5,190 lbs,Connecticut,USA
+218,Jaxson Hayes,LAL,11,C-F,7-0,220 lbs,Texas,USA
+219,Scoot Henderson,POR,00,G,6-3,202 lbs,NBA G League Ignite,USA
+220,Taylor Hendricks,UTA,0,F,6-9,215 lbs,Central Florida,USA
+221,Tyler Herro,MIA,14,G,6-5,195 lbs,Kentucky,USA
+222,Buddy Hield,GSW,7,G,6-4,220 lbs,Oklahoma,Bahamas
+223,Haywood Highsmith,MIA,24,F,6-5,220 lbs,Wheeling Jesuit,USA
+224,Malcolm Hill,NOP,33,F,6-6,220 lbs,Illinois,USA
+225,Blake Hinson,LAL,,F,6-8,230 lbs,Pittsburgh,USA
+226,Nate Hinton,HOU,14,G-F,6-5,210 lbs,Houston,USA
+227,Aaron Holiday,HOU,0,G,6-0,185 lbs,UCLA,USA
+228,Jrue Holiday,BOS,4,G,6-4,205 lbs,UCLA,USA
+229,Justin Holiday,DEN,9,F-G,6-6,180 lbs,Washington,USA
+230,Ronald Holland II,DET,,F,6-8,206 lbs,NBA G League Ignite,USA
+231,Richaun Holmes,WAS,22,F,6-9,235 lbs,Bowling Green,USA
+232,DaRon Holmes II,DEN,,F,6-10,225 lbs,Dayton,USA
+233,Chet Holmgren,OKC,7,C-F,7-1,208 lbs,Gonzaga,USA
+234,Jalen Hood-Schifino,LAL,0,G,6-5,215 lbs,Indiana,USA
+235,Al Horford,BOS,42,C-F,6-9,240 lbs,Florida,Dominican Republic
+236,Caleb Houstan,ORL,2,G,6-8,205 lbs,Michigan,Canada
+237,Jett Howard,ORL,13,G,6-6,215 lbs,Michigan,USA
+238,Kevin Huerter,SAC,9,G-F,6-7,198 lbs,Maryland,USA
+239,Jay Huff,MEM,30,C,7-1,240 lbs,Virginia,USA
+240,Ariel Hukporti,NYK,,C,6-11,246 lbs,MHP Riesen,Germany
+241,De'Andre Hunter,ATL,12,F-G,6-8,221 lbs,Virginia,USA
+242,Bones Hyland,LAC,5,G,6-2,169 lbs,Virginia Commonwealth,USA
+243,Oso Ighodaro,PHX,4,F,6-11,235 lbs,Marquette,USA
+244,Joe Ingles,MIN,7,F-G,6-9,220 lbs,Maccabi Tel Aviv,Australia
+245,Brandon Ingram,NOP,14,F,6-8,190 lbs,Duke,USA
+246,Harrison Ingram,SAS,,F,6-7,230 lbs,North Carolina,USA
+247,Kyrie Irving,DAL,11,G,6-2,195 lbs,Duke,Australia
+248,Jonathan Isaac,ORL,1,F,6-10,230 lbs,Florida State,USA
+249,Jaden Ivey,DET,23,G,6-4,195 lbs,Purdue,USA
+250,Isaiah Jackson,IND,22,F,6-9,205 lbs,Kentucky,USA
+251,Quenton Jackson,IND,29,G,6-5,173 lbs,Texas A&M,USA
+252,Reggie Jackson,PHI,7,G,6-2,208 lbs,Boston College,USA
+253,GG Jackson II,MEM,45,F,6-9,210 lbs,South Carolina,USA
+254,Andre Jackson Jr.,MIL,44,G,6-6,209 lbs,Connecticut,USA
+255,Jaren Jackson Jr.,MEM,13,F-C,6-10,242 lbs,Michigan State,USA
+256,Trayce Jackson-Davis,GSW,32,F,6-9,245 lbs,Indiana,USA
+257,Bronny James,LAL,9,G,6-2,210 lbs,Southern California,USA
+258,LeBron James,LAL,23,F,6-9,250 lbs,St. Vincent-St. Mary HS (OH),USA
+259,Jaime Jaquez Jr.,MIA,11,G,6-6,225 lbs,UCLA,USA
+260,DaQuan Jeffries,NYK,8,G-F,6-5,222 lbs,Tulsa,USA
+261,Trey Jemison,NOP,55,C,6-10,260 lbs,Alabama-Birmingham,USA
+262,Daniss Jenkins,DET,,G,6-3,165 lbs,St. John's,USA
+263,Ty Jerome,CLE,2,G-F,6-5,195 lbs,Virginia,USA
+264,Isaiah Joe,OKC,11,G,6-3,165 lbs,Arkansas,USA
+265,AJ Johnson,MIL,77,G,6-5,160 lbs,Illawarra,USA
+266,Cameron Johnson,BKN,2,F,6-8,210 lbs,North Carolina,USA
+267,Jalen Johnson,ATL,1,F,6-8,219 lbs,Duke,USA
+268,James Johnson,IND,16,F,6-7,240 lbs,Wake Forest,USA
+269,Keldon Johnson,SAS,3,F-G,6-5,220 lbs,Kentucky,USA
+270,Keon Johnson,BKN,45,G,6-5,185 lbs,Tennessee,USA
+271,Keshad Johnson,MIA,,F,6-7,225 lbs,Arizona,USA
+272,Nikola Jokic,DEN,15,C,6-11,284 lbs,Mega Basket,Serbia
+273,Colby Jones,SAC,20,G,6-6,207 lbs,Xavier,USA
+274,Damian Jones,CLE,30,C,6-10,245 lbs,Vanderbilt,USA
+275,David Jones,PHI,,F,6-6,210 lbs,Memphis,Dominican Republic
+276,Dillon Jones,OKC,3,F,6-6,235 lbs,Weber State,USA
+277,Herbert Jones,NOP,2,F,6-7,206 lbs,Alabama,USA
+278,Isaac Jones,SAC,,F,6-9,245 lbs,Washington State,USA
+279,Kai Jones,LAC,23,C-F,6-11,221 lbs,Texas,Bahamas
+280,Mason Jones,SAC,8,G,6-4,200 lbs,Arkansas,USA
+281,Spencer Jones,DEN,,F,6-7,225 lbs,Stanford,USA
+282,Tre Jones,SAS,33,G,6-1,185 lbs,Duke,USA
+283,Tyus Jones,PHX,5,G,6-1,196 lbs,Duke,USA
+284,Derrick Jones Jr.,LAC,55,F,6-6,210 lbs,UNLV,USA
+285,DeAndre Jordan,DEN,6,C,6-11,265 lbs,Texas A&M,USA
+286,Cory Joseph,ORL,1,G,6-2,200 lbs,Texas,Canada
+287,Nikola Jovic,MIA,5,F,6-10,205 lbs,Mega Basket,Serbia
+288,Johnny Juzang,UTA,33,G,6-5,209 lbs,UCLA,USA
+289,Kylor Kelley,LAL,,C,7-0,215 lbs,Oregon State,USA
+290,Luke Kennard,MEM,10,G,6-5,206 lbs,Duke,USA
+291,Walker Kessler,UTA,24,C,7-0,245 lbs,Auburn,USA
+292,Braxton Key,DEN,11,F,6-8,225 lbs,Virginia,USA
+293,Corey Kispert,WAS,24,F,6-6,224 lbs,Gonzaga,USA
+294,Maxi Kleber,DAL,42,F,6-10,240 lbs,Bayern Munich,Germany
+295,Bobi Klintman,DET,34,F,6-10,225 lbs,Cairns,Sweden
+296,Dalton Knecht,LAL,4,F,6-6,215 lbs,Tennessee,USA
+297,Tyler Kolek,NYK,,G,6-3,195 lbs,Marquette,USA
+298,John Konchar,MEM,46,G,6-5,210 lbs,Indiana-Purdue Fort Wayne,USA
+299,Luke Kornet,BOS,40,C-F,7-1,250 lbs,Vanderbilt,USA
+300,Vit Krejci,ATL,27,G,6-8,195 lbs,Zaragoza,Czech Republic
+301,Jonathan Kuminga,GSW,00,F,6-7,225 lbs,NBA G League Ignite,DRC
+302,Kyle Kuzma,WAS,33,F,6-9,221 lbs,Utah,USA
+303,Jock Landale,HOU,2,C,6-11,255 lbs,St. Mary's,Australia
+304,Jake LaRavia,MEM,3,F,6-7,235 lbs,Wake Forest,USA
+305,Pelle Larsson,MIA,9,G,6-5,215 lbs,Arizona,Sweden
+306,Zach LaVine,CHI,8,G,6-5,200 lbs,UCLA,USA
+307,AJ Lawson,DAL,9,G,6-6,179 lbs,South Carolina,Canada
+308,Damion Lee,PHX,10,G-F,6-6,210 lbs,Drexel,USA
+309,Saben Lee,PHX,38,G,6-2,183 lbs,Vanderbilt,USA
+310,Alex Len,SAC,25,C,7-0,250 lbs,Maryland,Ukraine
+311,Kawhi Leonard,LAC,2,F,6-7,225 lbs,San Diego State,USA
+312,Caris LeVert,CLE,3,G,6-6,205 lbs,Michigan,USA
+313,Maxwell Lewis,LAL,21,F,6-7,195 lbs,Pepperdine,USA
+314,Damian Lillard,MIL,0,G,6-2,195 lbs,Weber State,USA
+315,Dereck Lively II,DAL,2,C,7-1,230 lbs,Duke,USA
+316,Chris Livingston,MIL,7,F,6-6,220 lbs,Kentucky,USA
+317,Kenneth Lofton Jr.,CHI,35,F,6-6,275 lbs,Louisiana Tech,USA
+318,Kevon Looney,GSW,5,F,6-9,222 lbs,UCLA,USA
+319,Brook Lopez,MIL,11,C,7-1,282 lbs,Stanford,USA
+320,Kevin Love,MIA,42,F-C,6-8,251 lbs,UCLA,USA
+321,Kyle Lowry,PHI,7,G,6-0,196 lbs,Villanova,USA
+322,Seth Lundy,ATL,3,G-F,6-4,220 lbs,Penn State,USA
+323,Trey Lyles,SAC,41,F,6-9,234 lbs,Kentucky,Canada
+324,Sandro Mamukelashvili,SAS,54,F-C,6-9,240 lbs,Seton Hall,Georgia
+325,Terance Mann,LAC,14,G-F,6-5,215 lbs,Florida State,USA
+326,Tre Mann,CHA,23,G,6-3,178 lbs,Florida,USA
+327,Boban Marjanovic,HOU,51,C,7-4,290 lbs,Crvena zvezda,Serbia
+328,Lauri Markkanen,UTA,23,F-C,7-0,240 lbs,Arizona,Finland
+329,Naji Marshall,DAL,13,F,6-6,220 lbs,Xavier,USA
+330,Caleb Martin,PHI,16,F,6-5,205 lbs,Nevada,USA
+331,Cody Martin,CHA,11,F,6-6,205 lbs,Nevada,USA
+332,Jaylen Martin,BKN,16,G,6-6,216 lbs,Overtime Elite,USA
+333,KJ Martin,PHI,1,F,6-6,215 lbs,IMG Academy (FL),USA
+334,Garrison Mathews,ATL,24,G,6-6,215 lbs,Lipscomb,USA
+335,Dakota Mathias,IND,33,G,6-4,200 lbs,Purdue,USA
+336,Bennedict Mathurin,IND,00,G-F,6-5,210 lbs,Arizona,Canada
+337,Karlo Matkovic,NOP,,F-C,6-10,231 lbs,Mega Basket,Bosnia and Herzegovina
+338,Wesley Matthews,ATL,32,G,6-5,220 lbs,Marquette,USA
+339,Tyrese Maxey,PHI,0,G,6-2,200 lbs,Kentucky,USA
+340,Skylar Mays,LAL,4,G,6-3,205 lbs,Louisiana State,USA
+341,Miles McBride,NYK,2,G,6-1,195 lbs,West Virginia,USA
+342,Jared McCain,PHI,,G,6-3,195 lbs,Duke,USA
+343,CJ McCollum,NOP,3,G,6-3,190 lbs,Lehigh,USA
+344,T.J. McConnell,IND,9,G,6-1,190 lbs,Arizona,USA
+345,Kevin McCullar Jr.,NYK,,G,6-6,210 lbs,Kansas,USA
+346,Jaden McDaniels,MIN,3,F,6-9,185 lbs,Washington,USA
+347,Jalen McDaniels,SAC,2,F,6-9,190 lbs,San Diego State,USA
+348,Doug McDermott,IND,20,F,6-6,225 lbs,Creighton,USA
+349,JaVale McGee,SAC,00,C-F,7-0,270 lbs,Nevada,USA
+350,Gabe McGlothan,DEN,,F,6-7,235 lbs,Grand Canyon,USA
+351,Bryce McGowens,POR,7,G,6-6,175 lbs,Nebraska,USA
+352,Jordan McLaughlin,SAC,6,G,6-0,185 lbs,Southern California,USA
+353,Jack McVeigh,HOU,,G-F,6-8,215 lbs,Nebraska-Lincoln,Australia
+354,De'Anthony Melton,GSW,8,G,6-3,200 lbs,Southern California,USA
+355,Sam Merrill,CLE,5,G,6-4,205 lbs,Utah State,USA
+356,Vasilije Micic,CHA,22,G,6-3,188 lbs,Serbia,Serbia
+357,Khris Middleton,MIL,22,F,6-7,222 lbs,Texas A&M,USA
+358,Brandon Miller,CHA,24,F,6-7,200 lbs,Alabama,USA
+359,Emanuel Miller,DAL,,F,6-7,215 lbs,TCU,Canada
+360,Jordan Miller,LAC,11,G,6-5,194 lbs,Miami,USA
+361,Leonard Miller,MIN,33,F,6-10,210 lbs,NBA G League Ignite,Canada
+362,Patty Mills,MIA,8,G,6-2,180 lbs,St. Mary's,Australia
+363,Shake Milton,BKN,13,G-F,6-5,205 lbs,Southern Methodist,USA
+364,Justin Minaya,POR,10,F,6-5,205 lbs,Providence,USA
+365,Riley Minix,SAS,,F,6-7,230 lbs,Morehead State,USA
+366,Josh Minott,MIN,8,F,6-8,205 lbs,Memphis,USA
+367,Yves Missi,NOP,21,C,7-0,235 lbs,Baylor,Cameroon
+368,Ajay Mitchell,OKC,25,G,6-5,190 lbs,California-Santa Barbara,Belgium
+369,Davion Mitchell,TOR,15,G,6-0,202 lbs,Baylor,USA
+370,Donovan Mitchell,CLE,45,G,6-3,215 lbs,Louisville,USA
+371,Evan Mobley,CLE,4,C,6-11,215 lbs,Southern California,USA
+372,Isaiah Mobley,CLE,15,F,6-8,238 lbs,Southern California,USA
+373,Jonathan Mogbo,TOR,,F,6-9,225 lbs,San Francisco,USA
+374,Malik Monk,SAC,0,G,6-3,200 lbs,Kentucky,USA
+375,Moses Moody,GSW,4,G,6-5,211 lbs,Arkansas,USA
+376,Wendell Moore Jr.,DET,14,G,6-5,215 lbs,Duke,USA
+377,Ja Morant,MEM,12,G,6-2,174 lbs,Murray State,USA
+378,Markieff Morris,DAL,88,F,6-9,245 lbs,Kansas,USA
+379,Monte Morris,PHX,23,G,6-2,183 lbs,Iowa State,USA
+380,Marcus Morris Sr.,CLE,24,F,6-8,218 lbs,Kansas,USA
+381,Trey Murphy III,NOP,25,F,6-8,206 lbs,Virginia,USA
+382,Dejounte Murray,NOP,5,G,6-5,180 lbs,Washington,USA
+383,Jamal Murray,DEN,27,G,6-4,215 lbs,Kentucky,Canada
+384,Keegan Murray,SAC,13,F,6-8,225 lbs,Iowa,USA
+385,Kris Murray,POR,24,F,6-8,210 lbs,Iowa,USA
+386,Svi Mykhailiuk,UTA,50,G-F,6-7,205 lbs,Kansas,Ukraine
+387,Pete Nance,CLE,8,F,6-10,225 lbs,North Carolina,USA
+388,Larry Nance Jr.,ATL,22,F-C,6-8,245 lbs,Wyoming,USA
+389,Andrew Nembhard,IND,2,G-F,6-4,191 lbs,Gonzaga,Canada
+390,Aaron Nesmith,IND,23,G-F,6-6,215 lbs,Vanderbilt,USA
+391,Tristen Newton,IND,4,G,6-5,190 lbs,Connecticut,USA
+392,Georges Niang,CLE,20,F,6-7,230 lbs,Iowa State,USA
+393,Daishen Nix,MIN,12,G,6-3,226 lbs,NBA G League Ignite,USA
+394,Zeke Nnaji,DEN,22,F-C,6-9,240 lbs,Arizona,USA
+395,Juan Nunez,SAS,,G,6-4,190 lbs,Ratiopharm Ulm,Spain
+396,Jusuf Nurkic,PHX,20,C,7-0,290 lbs,Cedevita,Bosnia and Herzegovina
+397,Jordan Nwora,TOR,13,F,6-8,225 lbs,Louisville,USA
+398,Chuma Okeke,NYK,3,F,6-7,229 lbs,Auburn,USA
+399,Josh Okogie,PHX,2,G,6-4,213 lbs,Georgia Tech,Nigeria
+400,Onyeka Okongwu,ATL,17,F-C,6-10,240 lbs,Southern California,USA
+401,Isaac Okoro,CLE,35,F-G,6-5,225 lbs,Auburn,USA
+402,Quincy Olivari,LAL,,,, ,Xavier,
+403,Kelly Olynyk,TOR,41,F-C,6-11,240 lbs,Gonzaga,Canada
+404,Royce O'Neale,PHX,00,F,6-6,226 lbs,Baylor,USA
+405,Kelly Oubre Jr.,PHI,9,F-G,6-7,203 lbs,Kansas,USA
+406,Anzejs Pasecniks,MIL,18,C-F,7-1,229 lbs,Gran Canaria,Latvia
+407,Chris Paul,SAS,,G,6-0,175 lbs,Wake Forest,USA
+408,Cameron Payne,NYK,22,G,6-3,183 lbs,Murray State,USA
+409,Gary Payton II,GSW,0,G,6-2,195 lbs,Oregon State,USA
+410,Drew Peterson,BOS,13,F,6-9,205 lbs,Southern California,USA
+411,Julian Phillips,CHI,15,F,6-8,198 lbs,Tennessee,USA
+412,Jalen Pickett,DEN,24,G,6-2,202 lbs,Penn State,USA
+413,Scotty Pippen Jr.,MEM,1,G,6-1,170 lbs,Vanderbilt,USA
+414,Daeqwon Plowden,GSW,29,G-F,6-6,216 lbs,Bowling Green,USA
+415,Mason Plumlee,PHX,44,F-C,6-10,254 lbs,Duke,USA
+416,Brandin Podziemski,GSW,2,G,6-4,205 lbs,Santa Clara,USA
+417,Jakob Poeltl,TOR,19,C,7-0,260 lbs,Utah,Austria
+418,Jordan Poole,WAS,13,G,6-4,194 lbs,Michigan,USA
+419,Craig Porter Jr.,CLE,9,G,6-1,180 lbs,Wichita State,USA
+420,Kevin Porter Jr.,LAC,77,G-F,6-4,203 lbs,Southern California,USA
+421,Michael Porter Jr.,DEN,1,F,6-10,218 lbs,Missouri,USA
+422,Bobby Portis,MIL,9,F,6-10,250 lbs,Arkansas,USA
+423,Kristaps Porzingis,BOS,8,F-C,7-2,240 lbs,Cajasol Sevilla,Latvia
+424,Quinten Post,GSW,21,C,7-0,238 lbs,Boston College,Netherlands
+425,Micah Potter,UTA,25,C,6-9,248 lbs,Wisconsin,USA
+426,Dwight Powell,DAL,7,F-C,6-10,240 lbs,Stanford,Canada
+427,Norman Powell,LAC,24,G,6-4,215 lbs,UCLA,USA
+428,Jason Preston,UTA,10,G,6-3,181 lbs,Ohio,USA
+429,Taurean Prince,MIL,12,F,6-6,218 lbs,Baylor,USA
+430,Payton Pritchard,BOS,11,G,6-1,195 lbs,Oregon,USA
+431,Olivier-Maxence Prosper,DAL,8,F,6-7,230 lbs,Marquette,Canada
+432,Zyon Pullin,MIA,,G,6-4,206 lbs,Florida,USA
+433,Trevelin Queen,ORL,12,G,6-5,190 lbs,New Mexico State,USA
+434,Neemias Queta,BOS,88,C,7-0,248 lbs,Utah State,Portugal
+435,Immanuel Quickley,TOR,5,G,6-2,190 lbs,Kentucky,USA
+436,Lester Quinones,GSW,25,G,6-4,208 lbs,Memphis,USA
+437,Julius Randle,NYK,30,F-C,6-8,250 lbs,Kentucky,USA
+438,Duop Reath,POR,26,C,6-9,245 lbs,Louisiana State,South Sudan
+439,Austin Reaves,LAL,15,G,6-5,197 lbs,Oklahoma,USA
+440,Cam Reddish,LAL,5,F-G,6-7,217 lbs,Duke,USA
+441,Paul Reed,DET,44,F,6-9,210 lbs,DePaul,USA
+442,Antonio Reeves,NOP,12,G,6-4,205 lbs,Kentucky,USA
+443,Naz Reid,MIN,11,C-F,6-9,264 lbs,Louisiana State,USA
+444,Jared Rhoden,TOR,8,G,6-5,210 lbs,Seton Hall,USA
+445,Nick Richards,CHA,4,C,7-0,245 lbs,Kentucky,Jamaica
+446,Josh Richardson,MIA,0,G,6-5,200 lbs,Tennessee,USA
+447,Zaccharie Risacher,ATL,10,F,6-9,200 lbs,JL Bourg-en-Bresse,France
+448,Liam Robbins,MIL,4,C,7-0,250 lbs,Vanderbilt,USA
+449,Duncan Robinson,MIA,55,F,6-7,215 lbs,Michigan,USA
+450,Jerome Robinson,GSW,18,G,6-5,190 lbs,Boston College,USA
+451,Mitchell Robinson,NYK,23,C-F,7-0,240 lbs,Western Kentucky,USA
+452,Orlando Robinson,SAC,25,C,6-10,235 lbs,Fresno State,USA
+453,Jeremiah Robinson-Earl,NOP,50,F,6-8,240 lbs,Villanova,USA
+454,David Roddy,ATL,21,F,6-4,255 lbs,Colorado State,USA
+455,Ryan Rollins,MIL,13,G,6-3,180 lbs,Toledo,USA
+456,Derrick Rose,MEM,23,G,6-3,200 lbs,Memphis,USA
+457,Jackson Rowe,GSW,,F,6-7,210 lbs,California State-Fullerton,Canada
+458,Terry Rozier,MIA,2,G,6-1,190 lbs,Louisville,USA
+459,Rayan Rupert,POR,21,G-F,6-6,185 lbs,New Zealand Breakers,France
+460,D'Angelo Russell,LAL,1,G,6-3,193 lbs,Ohio State,USA
+461,Matt Ryan,NOP,37,F,6-6,215 lbs,Tennessee-Chattanooga,USA
+462,Domantas Sabonis,SAC,11,F-C,6-10,240 lbs,Gonzaga,Lithuania
+463,Tidjane Salaun,CHA,,F,6-9,207 lbs,Cholet,France
+464,Jermaine Samuels Jr.,HOU,00,F,6-6,230 lbs,Villanova,USA
+465,Babacar Sane,UTA,,F,6-7,230 lbs,NBA G League Ignite,Senegal
+466,Adama Sanogo,CHI,21,F,6-9,245 lbs,Connecticut,Mali
+467,Gui Santos,GSW,15,F,6-6,185 lbs,Minas,Brazil
+468,Dario Saric,DEN,20,F-C,6-10,225 lbs,Anadolu Efes,Croatia
+469,Alexandre Sarr,WAS,12,C,7-0,205 lbs,Perth,France
+470,Marcus Sasser,DET,25,G,6-2,195 lbs,Houston,USA
+471,Baylor Scheierman,BOS,,G,6-6,205 lbs,Creighton,USA
+472,Dennis Schroder,BKN,17,G,6-1,175 lbs,Braunschweig,Germany
+473,Dereon Seabron,NOP,0,G,6-5,180 lbs,North Carolina State,USA
+474,Alperen Sengun,HOU,28,C,6-11,243 lbs,Besiktas,Turkey
+475,Brice Sensabaugh,UTA,8,F,6-5,235 lbs,Ohio State,USA
+476,Collin Sexton,UTA,2,G,6-3,190 lbs,Alabama,USA
+477,Terrence Shannon Jr.,MIN,00,G-F,6-6,215 lbs,Illinois,USA
+478,Jamarion Sharp,DAL,,C,7-5,235 lbs,Mississippi,USA
+479,Day'Ron Sharpe,BKN,20,C,6-9,265 lbs,North Carolina,USA
+480,Shaedon Sharpe,POR,17,G,6-5,205 lbs,Kentucky,Canada
+481,Jamal Shead,TOR,,G,6-1,200 lbs,Houston,USA
+482,Ben Sheppard,IND,26,G,6-6,190 lbs,Belmont,USA
+483,Reed Sheppard,HOU,15,G,6-3,185 lbs,Kentucky,USA
+484,Pascal Siakam,IND,43,F,6-8,245 lbs,New Mexico State,Cameroon
+485,Ben Simmons,BKN,10,G-F,6-10,240 lbs,Louisiana State,Australia
+486,Anfernee Simons,POR,1,G,6-3,193 lbs,Edgewater HS (FL),USA
+487,K.J. Simpson,CHA,,G,6-2,189 lbs,Colorado,USA
+488,Jericho Sims,NYK,20,C,6-10,250 lbs,Texas,USA
+489,Jalen Slawson,SAC,18,F,6-7,215 lbs,Furman,USA
+490,Marcus Smart,MEM,36,G,6-3,220 lbs,Oklahoma State,USA
+491,Dru Smith,MIA,9,G,6-2,203 lbs,Missouri,USA
+492,Jalen Smith,CHI,25,F-C,6-9,215 lbs,Maryland,USA
+493,Tyler Smith,MIL,15,F,6-11,224 lbs,NBA G League Ignite,USA
+494,Jabari Smith Jr.,HOU,10,F,6-11,220 lbs,Auburn,USA
+495,Nick Smith Jr.,CHA,8,G,6-2,185 lbs,Arkansas,USA
+496,Jeremy Sochan,SAS,10,F,6-8,230 lbs,Baylor,Poland
+497,Cam Spencer,MEM,,G,6-4,205 lbs,Connecticut,USA
+498,Pat Spencer,GSW,61,G,6-3,205 lbs,Northwestern,USA
+499,Jaden Springer,BOS,44,G,6-4,202 lbs,Tennessee,USA
+500,Isaiah Stevens,MIA,,G,6-0,185 lbs,Colorado State,USA
+501,Lamar Stevens,MEM,24,F,6-7,230 lbs,Penn State,USA
+502,DJ Steward,CHI,26,G,6-2,162 lbs,Duke,USA
+503,Isaiah Stewart,DET,28,F-C,6-8,250 lbs,Washington,USA
+504,Julian Strawther,DEN,3,G,6-6,205 lbs,Gonzaga,USA
+505,Max Strus,CLE,1,G-F,6-5,215 lbs,DePaul,USA
+506,Jalen Suggs,ORL,4,G,6-5,205 lbs,Gonzaga,USA
+507,Cole Swider,IND,21,F,6-8,220 lbs,Syracuse,USA
+508,Jae'Sean Tate,HOU,8,F,6-4,230 lbs,Ohio State,USA
+509,Jayson Tatum,BOS,0,F-G,6-8,210 lbs,Duke,USA
+510,Garrett Temple,TOR,17,G-F,6-5,195 lbs,Louisiana State,USA
+511,Dalen Terry,CHI,25,F,6-7,195 lbs,Arizona,USA
+512,Daniel Theis,NOP,10,F-C,6-8,245 lbs,Brose Bamberg,Germany
+513,Cam Thomas,BKN,24,G,6-3,210 lbs,Louisiana State,Japan
+514,Isaiah Thomas,PHX,4,G,5-9,185 lbs,Washington,USA
+515,Amen Thompson,HOU,1,G-F,6-7,200 lbs,Overtime Elite,USA
+516,Ausar Thompson,DET,9,G-F,6-6,205 lbs,Overtime Elite,USA
+517,Klay Thompson,DAL,31,G,6-6,220 lbs,Washington State,USA
+518,Tristan Thompson,CLE,13,C-F,6-9,254 lbs,Texas-Austin,Canada
+519,Matisse Thybulle,POR,4,G-F,6-5,201 lbs,Washington,USA
+520,Xavier Tillman,BOS,26,F,6-7,245 lbs,Michigan State,USA
+521,Nikola Topic,OKC,44,G,6-6,200 lbs,Crvena zvezda,Serbia
+522,Jacob Toppin,NYK,00,F,6-8,200 lbs,Kentucky,USA
+523,Obi Toppin,IND,1,F,6-9,220 lbs,Dayton,USA
+524,Karl-Anthony Towns,MIN,32,C-F,7-0,248 lbs,Kentucky,USA
+525,Armel Traore,LAL,,F,6-8,215 lbs,ADA Blois,France
+526,Luke Travers,CLE,33,F,6-7,207 lbs,Rockingham Flames (Aus.),Australia
+527,Gary Trent Jr.,MIL,33,G,6-5,204 lbs,Duke,USA
+528,Oscar Tshiebwe,UTA,44,F-C,6-8,255 lbs,Kentucky,DRC
+529,P.J. Tucker,LAC,17,F,6-5,245 lbs,Texas,USA
+530,Myles Turner,IND,33,C-F,6-11,250 lbs,Texas,USA
+531,Hunter Tyson,DEN,5,F,6-8,215 lbs,Clemson,USA
+532,Jaylon Tyson,CLE,,G-F,6-6,215 lbs,California,USA
+533,Stanley Umude,MIL,17,G,6-6,210 lbs,Arkansas,USA
+534,Jonas Valanciunas,WAS,17,C,6-11,265 lbs,Lietuvos rytas Vilnius,Lithuania
+535,Jarred Vanderbilt,LAL,2,F,6-8,214 lbs,Kentucky,USA
+536,Fred VanVleet,HOU,5,G,6-0,197 lbs,Wichita State,USA
+537,Devin Vassell,SAS,24,G-F,6-5,200 lbs,Florida State,USA
+538,Gabe Vincent,LAL,7,G,6-2,200 lbs,California-Santa Barbara,USA
+539,Nikola Vucevic,CHI,9,C,6-10,260 lbs,Southern California,Montenegro
+540,Tristan Vukcevic,WAS,00,F,6-10,220 lbs,Real Madrid,Italy
+541,Dean Wade,CLE,32,F-C,6-9,228 lbs,Kansas State,USA
+542,Franz Wagner,ORL,22,F,6-10,220 lbs,Michigan,Germany
+543,Moritz Wagner,ORL,21,F-C,6-11,245 lbs,Michigan,Germany
+544,Ish Wainright,PHX,12,F,6-5,250 lbs,Baylor,USA
+545,Jabari Walker,POR,34,F,6-7,227 lbs,Colorado,USA
+546,Jarace Walker,IND,5,F,6-7,235 lbs,Houston,USA
+547,Cason Wallace,OKC,22,G,6-3,195 lbs,Kentucky,USA
+548,Keaton Wallace,ATL,,G,6-3,185 lbs,Texas-San Antonio,USA
+549,Jordan Walsh,BOS,27,G,6-6,205 lbs,Arkansas,USA
+550,Ja'Kobe Walter,TOR,,G,6-5,180 lbs,Baylor,USA
+551,Kel'el Ware,MIA,7,C,7-0,230 lbs,Indiana,USA
+552,T.J. Warren,MIN,24,F,6-8,220 lbs,North Carolina State,USA
+553,P.J. Washington,DAL,25,F,6-7,230 lbs,Kentucky,USA
+554,Duane Washington Jr.,NYK,1,G,6-2,197 lbs,Ohio State,Germany
+555,TyTy Washington Jr.,PHX,23,G,6-3,195 lbs,Kentucky,USA
+556,Yuta Watanabe,MEM,18,G-F,6-9,215 lbs,George Washington,Japan
+557,Lindy Waters III,GSW,43,F,6-6,210 lbs,Oklahoma State,USA
+558,Trendon Watford,BKN,9,F,6-8,237 lbs,Louisiana State,USA
+559,Anton Watson,BOS,,F,6-8,225 lbs,Gonzaga,USA
+560,Peyton Watson,DEN,8,G,6-7,200 lbs,UCLA,USA
+561,Jaylen Wells,MEM,,F,6-8, ,Washington State,USA
+562,Victor Wembanyama,SAS,1,F-C,7-4,210 lbs,Metropolitans 92,France
+563,Blake Wesley,SAS,14,G,6-3,185 lbs,Notre Dame,USA
+564,Russell Westbrook,DEN,0,G,6-4,200 lbs,UCLA,USA
+565,Coby White,CHI,0,G,6-5,195 lbs,North Carolina,USA
+566,Derrick White,BOS,9,G,6-4,190 lbs,Colorado,USA
+567,Dariq Whitehead,BKN,0,F,6-6,220 lbs,Duke,USA
+568,Cam Whitmore,HOU,7,F,6-7,230 lbs,Villanova,USA
+569,Aaron Wiggins,OKC,21,G,6-5,190 lbs,Maryland,USA
+570,Andrew Wiggins,GSW,22,F,6-7,197 lbs,Kansas,Canada
+571,Alondes Williams,MIA,15,G,6-4,210 lbs,Wake Forest,USA
+572,Brandon Williams,DAL,00,G,6-1,190 lbs,Arizona,USA
+573,Cody Williams,UTA,,F,6-8,190 lbs,Colorado,USA
+574,Grant Williams,CHA,2,F,6-6,236 lbs,Tennessee,USA
+575,Jalen Williams,OKC,8,G-F,6-5,211 lbs,Santa Clara,USA
+576,Jaylin Williams,OKC,6,F,6-9,240 lbs,Arkansas,USA
+577,Jaylin Williams,DEN,,F,6-8,245 lbs,Auburn,USA
+578,Kenrich Williams,OKC,34,G-F,6-6,210 lbs,TCU,USA
+579,Malik Williams,TOR,,C,6-11,250 lbs,Louisville,USA
+580,Mark Williams,CHA,5,C,7-0,240 lbs,Duke,USA
+581,Nate Williams,HOU,19,G,6-5,205 lbs,Buffalo,USA
+582,Patrick Williams,CHI,44,F,6-7,215 lbs,Florida State,USA
+583,Ziaire Williams,BKN,1,F,6-9,185 lbs,Stanford,USA
+584,Robert Williams III,POR,35,C-F,6-9,249 lbs,Texas A&M,USA
+585,Vince Williams Jr.,MEM,5,G,6-4,205 lbs,Virginia Commonwealth,USA
+586,Zion Williamson,NOP,1,F,6-6,284 lbs,Duke,USA
+587,Jalen Wilson,BKN,22,F,6-6,220 lbs,Kansas,USA
+588,Dylan Windler,ATL,20,G-F,6-7,196 lbs,Belmont,USA
+589,James Wiseman,IND,13,C,6-11,240 lbs,Memphis,USA
+590,Isaiah Wong,IND,21,G,6-3,185 lbs,Miami,USA
+591,Christian Wood,LAL,35,F,6-8,214 lbs,UNLV,USA
+592,Delon Wright,MIL,4,G,6-5,185 lbs,Utah,USA
+593,Jahmir Young,DEN,,G,6-1,185 lbs,Maryland,USA
+594,Thaddeus Young,PHX,30,F,6-8,225 lbs,Georgia Tech,USA
+595,Trae Young,ATL,11,G,6-1,164 lbs,Oklahoma,USA
+596,Cody Zeller,ATL,40,F-C,6-11,240 lbs,Indiana,USA
+597,Ivica Zubac,LAC,40,C,7-0,240 lbs,Mega Basket,Croatia
