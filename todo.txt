@@ -8,6 +8,7 @@ fix the name spacing on the original dataset
 
 Extra:
 ***FIX SUBSEQUENT GUESS POSITION LOGIC***
+- steph curry and max christie doesnt show up?
 check for arrows on either side
 add age as a guess
 check how g-f and c-f relate (yellow)
@@ -16,8 +17,5 @@ fix deepcopy west teams
 rename variables
 allow for stupid guesses (subsequent conference for example)
 make height and number guessing smarter
-add gitignore
 fix error with apostrophe in name (Melton)
-Seems not updated? Like Austin Reaves didn't show up after Curry on 6/30/23
 Also players with same height can both show up
-Need to make it so that the dataset updates regularly

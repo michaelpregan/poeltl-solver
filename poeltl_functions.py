@@ -10,15 +10,16 @@ import random
 # age (arrow) (byg)
 # jersey (arrow) (byg)
 
-west_teams = {'northwest':['DEN','MIN','OKC','UTA','POR'],'pacific':['SAC','PHX','LAC','LAC','GSW'],'southwest':['MEM','DAL','SAS','HOU','NOP']}
+west_teams = {'northwest':['DEN','MIN','OKC','UTA','POR'],'pacific':['SAC','PHX','LAC','LAL','GSW'],'southwest':['MEM','DAL','SAS','HOU','NOP']}
 east_teams = {'atlantic':['BOS','PHI','NYK','BKN','TOR'],'central':['MIL','CLE','IND','CHI','DET'],'southeast':['MIA','ATL','WAS','ORL','CHA']}
 
 df = pd.read_csv('nba_player_info_updated.csv',index_col=False)
+
 remaining_players = df['Player'].unique().tolist()
 
 remaining_teams = []
 remaining_positions = ['G','G-F','F-G','F','F-C','C-F','C']
-correct_height = [x for x in range(70,87)]
+correct_height = [x for x in range(69,88)]
 correct_jersey = [x for x in range(0,100)]
 prev_position_guesses = []
 
